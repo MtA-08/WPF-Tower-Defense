@@ -246,14 +246,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tower Defense.exe" size="22570920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tower Defense.exe" size="22569896">
       <assemblyIdentity name="Tower Defense" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jlAfOLu3rLLENAE3tb60sNpODg5aS5Zt4YgtVr4LhOI=</dsig:DigestValue>
+        <dsig:DigestValue>HvgZ/G/MVDDwx/Zw60QKzOa4rYqQJhIojIA11PcGr2Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
