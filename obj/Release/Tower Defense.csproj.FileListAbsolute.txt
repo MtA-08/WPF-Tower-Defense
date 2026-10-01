@@ -1,0 +1,37 @@
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\Tower Defense.exe.config
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\Tower Defense.exe
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\Tower Defense.pdb
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Converters.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Core.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Css.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Dom.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Model.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Rendering.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Runtime.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Converters.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Core.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Css.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Dom.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Model.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Rendering.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Release\SharpVectors.Runtime.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\icons.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\styles.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\MainMenuWindow.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\MainWindow.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\App.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense_Content.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense_MarkupCompile.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense_MarkupCompile.lref
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\App.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\MainMenuWindow.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\MainWindow.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.g.resources
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower_Defense.Properties.Resources.resources
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.csproj.GenerateResource.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower De.94896954.Up2Date
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.exe
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Release\Tower Defense.pdb

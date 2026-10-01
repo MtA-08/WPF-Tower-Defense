@@ -1,0 +1,175 @@
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe.config
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Tower Defense.pdb
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\icons.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\styles.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\MainWindow.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\App.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense_Content.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.lref
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\App.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\MainWindow.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.g.resources
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower_Defense.Properties.Resources.resources
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.GenerateResource.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower De.94896954.Up2Date
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.exe
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\Tower Defense.pdb
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.g.cs
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.baml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Buffers.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Memory.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Buffers.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Memory.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.xml
+C:\Users\arikan\source\repos\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe.config
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Tower Defense.pdb
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Buffers.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Memory.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Buffers.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Memory.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\icons.baml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\styles.baml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.g.cs
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\MainWindow.g.cs
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\App.g.cs
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense_Content.g.cs
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.cache
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.lref
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\App.baml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.baml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\MainWindow.baml
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.g.resources
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower_Defense.Properties.Resources.resources
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.GenerateResource.cache
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower De.94896954.Up2Date
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.exe
+C:\Users\maari\Downloads\Tower Defense(1)\Tower Defense\Tower Defense\obj\Debug\Tower Defense.pdb
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe.config
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe.manifest
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Tower Defense.application
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Tower Defense.exe
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Tower Defense.pdb
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Buffers.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Memory.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Converters.Wpf.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Core.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Css.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Dom.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Model.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Rendering.Wpf.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\SharpVectors.Runtime.Wpf.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Buffers.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.IO.Pipelines.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Memory.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Text.Json.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.AssemblyReference.cache
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\icons.baml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\styles.baml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.g.cs
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\MainWindow.g.cs
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\App.g.cs
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense_Content.g.cs
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.cache
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense_MarkupCompile.lref
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\App.baml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\MainMenuWindow.baml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\MainWindow.baml
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.g.resources
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower_Defense.Properties.Resources.resources
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.GenerateResource.cache
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.exe.manifest
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.application
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower De.94896954.Up2Date
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.exe
+C:\Users\maari\OneDrive\Belgeler\Arikan\Mustafa\_CODE\WPF\Tower Defense\Tower Defense\obj\Debug\Tower Defense.pdb

@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<PathGeometry x:Key="Restart">M159.375 100A56.25 56.25 0 0 0 51.75 77.075L34.3625 70.0125A75.0125 75.0125 0 0 1 178.125 100A75 75 0 0 1 43.75 145.825V168.75H25V118.75L34.375 109.375H78.125V128.125H54.4A56.25 56.25 0 0 0 159.375 100z</PathGeometry>
+	<PathGeometry x:Key="PlayArrowRound">M 8.8574219 5.8300781 A 0.998 0.998 0 0 0 8 6.8203125 L 8 17.179688 C 8 17.969687 8.8690632 18.449531 9.5390625 18.019531 L 17.679688 12.839844 A 1 1 0 0 0 17.679688 11.150391 L 9.5390625 5.9804688 A 0.998 0.998 0 0 0 8.8574219 5.8300781 z</PathGeometry>
+	
+</ResourceDictionary>

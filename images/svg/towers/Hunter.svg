@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="HunterTower-title HunterTower-desc">
+<title id="HunterTower-title">Hunter tower with cast net</title><desc id="HunterTower-desc">A chibi hunter in a broad-brimmed olive hat and leather waistcoat holding a knotted weighted cast net ready to throw. Three-quarter view facing right. Original editable vector artwork.</desc><defs><linearGradient id="HunterTower-skin" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffe1a5"/><stop offset="0.500" stop-color="#ecae72"/><stop offset="1.000" stop-color="#c77547"/></linearGradient><linearGradient id="HunterTower-hair" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#785033"/><stop offset="0.500" stop-color="#4c3025"/><stop offset="1.000" stop-color="#2b2325"/></linearGradient><linearGradient id="HunterTower-leather" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#bc7c40"/><stop offset="0.500" stop-color="#875029"/><stop offset="1.000" stop-color="#593221"/></linearGradient><linearGradient id="HunterTower-ivory" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fffae1"/><stop offset="0.500" stop-color="#ecdfb7"/><stop offset="1.000" stop-color="#c6aa7b"/></linearGradient><linearGradient id="HunterTower-greenCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#89bb72"/><stop offset="0.500" stop-color="#497b4c"/><stop offset="1.000" stop-color="#315540"/></linearGradient><linearGradient id="HunterTower-oliveCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#b7c486"/><stop offset="0.500" stop-color="#788c53"/><stop offset="1.000" stop-color="#50613f"/></linearGradient><linearGradient id="HunterTower-redCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#f29862"/><stop offset="0.500" stop-color="#be6542"/><stop offset="1.000" stop-color="#7e4334"/></linearGradient><linearGradient id="HunterTower-gold" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff1a0"/><stop offset="0.500" stop-color="#ebc04f"/><stop offset="1.000" stop-color="#b57929"/></linearGradient><linearGradient id="HunterTower-stone" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#cad4d8"/><stop offset="0.500" stop-color="#8c9da9"/><stop offset="1.000" stop-color="#5e7386"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+<g id="HunterTower-backpack">
+ 
+ <path d="M74 111 Q81 105 92 116 L91 169 L69 172 L61 150 L65 124Z" fill="url(#HunterTower-leather)"/>
+ <path d="M67 128 L82 131 M65 146 L78 147" stroke="#deb77d" stroke-width="3"/>
+ <path d="M69 119 L77 117 L79 127 L68 129Z" fill="url(#HunterTower-gold)" stroke-width="2.5"/>
+</g>
+<g id="HunterTower-trousers">
+ <path d="M89 166 L114 173 L110 207 L85 207Z M125 174 L147 167 L154 204 L129 209Z" fill="url(#HunterTower-oliveCloth)"/>
+ <path d="M97 180 L95 199 M137 182 L143 198" stroke="#566740" stroke-width="3"/>
+ <path d="M87 187 L106 190 L103 201 L85 198Z M132 187 L149 184 L152 195 L135 198Z" fill="#75834c" stroke-width="3"/>
+ <path d="M91 191 L100 193 M138 190 L146 189" stroke="#d2ce93" stroke-width="2"/>
+</g>
+<g id="HunterTower-boots">
+ <path d="M85 199 L109 201 L111 222 L74 222 L74 214 L84 207Z" fill="url(#HunterTower-leather)"/>
+ <path d="M129 200 L151 197 L155 208 Q170 211 166 221 L130 223Z" fill="url(#HunterTower-leather)"/>
+ <path d="M77 218 L108 218 M133 218 L163 217" stroke="#d4b18a" stroke-width="3"/>
+ <path d="M87 204 L105 206 M134 205 L149 203" stroke="#e4c794" stroke-width="3"/>
+ <path d="M91 210 L101 210 M138 210 L148 208" stroke="#644732" stroke-width="2.5"/>
+</g>
+<g id="HunterTower-shirt-and-waistcoat">
+ <path d="M94 111 L132 109 Q149 119 152 147 L154 182 Q121 197 83 182 L84 143Z" fill="url(#HunterTower-greenCloth)"/>
+ <path d="M91 117 L105 119 L116 153 L109 179 L86 173 L87 136Z" fill="url(#HunterTower-leather)" stroke-width="3.5"/>
+ <path d="M128 116 L142 117 L148 146 L148 174 L124 182 L120 154Z" fill="url(#HunterTower-leather)" stroke-width="3.5"/>
+ <path d="M98 124 L107 143 M133 125 L128 148" stroke="#dfb278" stroke-width="2.5"/>
+ <path d="M111 129 L117 145 L124 129" stroke="#cfda9b" stroke-width="3"/>
+ <path d="M88 148 L103 150 L103 163 L88 161Z" fill="#744b2d" stroke-width="2.5"/>
+ <path d="M128 148 L143 145 L145 159 L129 164Z" fill="#744b2d" stroke-width="2.5"/>
+ <path d="M90 152 L101 153 M132 152 L141 150" stroke="#c3965e" stroke-width="2"/>
+ <path d="M84 168 Q116 179 149 164 L153 177 Q120 191 83 181Z" fill="url(#HunterTower-leather)" stroke-width="3.5"/>
+ <path d="M111 175 L126 174 L128 186 L112 188Z" fill="url(#HunterTower-gold)" stroke-width="2.5"/>
+ <path d="M116 179 L123 178 L124 182 L117 184Z" fill="#735732" stroke="none"/>
+ <circle cx="96" cy="139" r="2.4" fill="#f2d692" stroke="#694b32" stroke-width="1.5"/>
+ <path d="M139 174 L151 172 L155 190 L141 193Z" fill="url(#HunterTower-leather)" stroke-width="3"/>
+ <path d="M145 178 L147 186" stroke="#d1a875" stroke-width="2"/>
+</g>
+<g id="HunterTower-spare-rope">
+ <path d="M73 159 C57 154 49 166 54 180 C58 190 72 192 79 181 C86 168 78 159 70 163 C61 165 59 173 65 179 C72 184 77 177 73 172 C68 166 65 173 69 175" stroke="#344032" stroke-width="7"/>
+ <path d="M73 159 C57 154 49 166 54 180 C58 190 72 192 79 181 C86 168 78 159 70 163 C61 165 59 173 65 179 C72 184 77 177 73 172 C68 166 65 173 69 175" stroke="#d9bd80" stroke-width="3.7"/>
+ <path d="M65 157 L77 159 L75 166 L63 164Z" fill="url(#HunterTower-leather)" stroke-width="2.5"/>
+ <path d="M64 185 L60 196 L69 192" stroke="#7c643f" stroke-width="2.8"/>
+</g>
+<g id="HunterTower-neckerchief">
+ <path d="M99 104 L132 105 L141 115 L126 124 L110 119 L94 114Z" fill="url(#HunterTower-redCloth)" stroke-width="3.5"/>
+ <path d="M111 117 L118 122 L112 135 L104 129Z" fill="url(#HunterTower-redCloth)" stroke-width="3"/>
+ <path d="M104 111 Q121 118 134 112" stroke="#ffd2a0" stroke-width="2.5"/>
+</g>
+<g id="HunterTower-head">
+ <path d="M90 60 Q98 42 125 46 Q148 49 156 73 L153 92 L161 99 L152 106 Q142 124 121 117 L100 106Z" fill="url(#HunterTower-skin)"/>
+ <path d="M97 70 L99 94 L89 94 L84 76Z" fill="url(#HunterTower-hair)" stroke-width="3"/>
+ <path d="M94 85 Q81 76 79 88 Q78 98 94 99" fill="url(#HunterTower-skin)" stroke-width="3.5"/>
+ <path d="M85 86 L91 92" stroke="#b58050" stroke-width="2.5"/>
+ <path d="M105 76 L112 68 L116 58 L148 63 L149 74 L136 65 L122 76 L112 74 L108 84Z" fill="url(#HunterTower-hair)" stroke-width="3"/>
+ <path d="M117 85 L128 81 M139 82 L150 84" stroke="#523b29" stroke-width="3.5"/>
+ <ellipse cx="124" cy="91" rx="3.2" ry="4.7" fill="#22323d" stroke="none"/>
+ <ellipse cx="146" cy="91" rx="3" ry="4.3" fill="#22323d" stroke="none"/>
+ <path d="M136 91 L140 100 L134 101" stroke="#b77a4d" stroke-width="2.5"/>
+ <path d="M123 109 Q134 114 145 107" stroke="#805735" stroke-width="2.5"/>
+ <path d="M125 110 L136 111" stroke="#ffe2b4" stroke-width="2"/>
+ <path d="M100 101 L104 104 M105 105 L109 108" stroke="#9d794a" stroke-width="2"/>
+</g>
+<g id="HunterTower-hunter-hat">
+ <path d="M80 53 L91 31 Q107 26 122 32 L141 28 L155 53 L145 65 L93 64Z" fill="url(#HunterTower-oliveCloth)"/>
+ <path d="M94 35 Q101 38 110 37 M130 36 L139 34 L146 46" stroke="#dce0a1" stroke-width="3"/>
+ <path d="M85 48 Q115 60 151 46 L155 57 Q120 70 82 61Z" fill="url(#HunterTower-leather)" stroke-width="3"/>
+ <path d="M134 51 L145 49 L148 59 L137 62Z" fill="url(#HunterTower-gold)" stroke-width="2.5"/>
+ <path d="M139 54 L143 53 L144 57 L140 58Z" fill="#6a5133" stroke="none"/>
+ <path d="M81 55 Q64 52 63 60 Q67 70 91 72 Q111 76 132 71 Q153 74 174 65 L168 57 L154 56 Q116 70 81 55Z" fill="url(#HunterTower-oliveCloth)"/>
+ <path d="M70 60 Q80 65 94 65 M143 65 L164 61" stroke="#dae0a0" stroke-width="2.8"/>
+ <path d="M73 54 L79 31 L85 29 L84 50" fill="#c5cd95" stroke-width="3"/>
+ <path d="M78 47 L81 35" stroke="#71864d" stroke-width="2"/>
+</g>
+<g id="HunterTower-far-arm">
+ <path d="M141 128 Q149 122 156 133 L175 145 L211 119 Q219 115 224 122 Q225 129 218 134 L179 160 Q171 164 163 158 L144 148Z" fill="url(#HunterTower-skin)"/>
+ <path d="M141 124 Q153 122 159 135 L151 147 L139 137Z" fill="url(#HunterTower-greenCloth)" stroke-width="3.5"/>
+ <path d="M148 138 L156 134 L159 138 L152 144Z" fill="url(#HunterTower-ivory)" stroke-width="2.5"/>
+ <path d="M176 145 L181 153" stroke="#b68152" stroke-width="2.5"/>
+</g>
+<g id="HunterTower-held-cast-net"><path d="M159.905 120.095 L156.842 123.158" stroke="#665334" stroke-width="3.3"/><path d="M159.905 120.095 L156.842 123.158" stroke="#e3c98d" stroke-width="1.45"/><path d="M173.238 120.762 L148.737 145.263" stroke="#665334" stroke-width="3.3"/><path d="M173.238 120.762 L148.737 145.263" stroke="#e3c98d" stroke-width="1.45"/><path d="M186.571 121.429 L149.605 158.395" stroke="#665334" stroke-width="3.3"/><path d="M186.571 121.429 L149.605 158.395" stroke="#e3c98d" stroke-width="1.45"/><path d="M199.905 122.095 L152.921 169.079" stroke="#665334" stroke-width="3.3"/><path d="M199.905 122.095 L152.921 169.079" stroke="#e3c98d" stroke-width="1.45"/><path d="M213.238 122.762 L156.711 179.289" stroke="#665334" stroke-width="3.3"/><path d="M213.238 122.762 L156.711 179.289" stroke="#e3c98d" stroke-width="1.45"/><path d="M219.180 130.820 L166.667 183.333" stroke="#665334" stroke-width="3.3"/><path d="M219.180 130.820 L166.667 183.333" stroke="#e3c98d" stroke-width="1.45"/><path d="M221.016 142.984 L176.622 187.378" stroke="#665334" stroke-width="3.3"/><path d="M221.016 142.984 L176.622 187.378" stroke="#e3c98d" stroke-width="1.45"/><path d="M222.852 155.148 L186.578 191.422" stroke="#665334" stroke-width="3.3"/><path d="M222.852 155.148 L186.578 191.422" stroke="#e3c98d" stroke-width="1.45"/><path d="M224.689 167.311 L208.727 183.273" stroke="#665334" stroke-width="3.3"/><path d="M224.689 167.311 L208.727 183.273" stroke="#e3c98d" stroke-width="1.45"/><path d="M171.158 185.158 L151.950 165.950" stroke="#665334" stroke-width="3.3"/><path d="M171.158 185.158 L151.950 165.950" stroke="#e3c98d" stroke-width="1.45"/><path d="M190.815 190.815 L147.805 147.805" stroke="#665334" stroke-width="3.3"/><path d="M190.815 190.815 L147.805 147.805" stroke="#e3c98d" stroke-width="1.45"/><path d="M200.667 186.667 L151.561 137.561" stroke="#665334" stroke-width="3.3"/><path d="M200.667 186.667 L151.561 137.561" stroke="#e3c98d" stroke-width="1.45"/><path d="M210.519 182.519 L155.317 127.317" stroke="#665334" stroke-width="3.3"/><path d="M210.519 182.519 L155.317 127.317" stroke="#e3c98d" stroke-width="1.45"/><path d="M162.211 120.211 L220.370 178.370" stroke="#665334" stroke-width="3.3"/><path d="M162.211 120.211 L220.370 178.370" stroke="#e3c98d" stroke-width="1.45"/><path d="M176.947 120.947 L224.933 168.933" stroke="#665334" stroke-width="3.3"/><path d="M176.947 120.947 L224.933 168.933" stroke="#e3c98d" stroke-width="1.45"/><path d="M191.684 121.684 L222.444 152.444" stroke="#665334" stroke-width="3.3"/><path d="M191.684 121.684 L222.444 152.444" stroke="#e3c98d" stroke-width="1.45"/><path d="M206.421 122.421 L219.956 135.956" stroke="#665334" stroke-width="3.3"/><path d="M206.421 122.421 L219.956 135.956" stroke="#e3c98d" stroke-width="1.45"/><path d="M158.000 120.000 L218.000 123.000 L226.000 176.000 L188.000 192.000 L156.000 179.000 L147.000 150.000 Z" stroke="#202a38" stroke-width="4.5"/><path d="M158.000 120.000 L218.000 123.000 L226.000 176.000 L188.000 192.000 L156.000 179.000 L147.000 150.000 Z" stroke="#debf7b" stroke-width="2.35"/><circle cx="154.0" cy="140.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="161.0" cy="133.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="168.0" cy="126.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="154.0" cy="154.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="161.0" cy="147.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="168.0" cy="140.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="175.0" cy="133.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="182.0" cy="126.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="154.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="161.0" cy="161.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="168.0" cy="154.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="175.0" cy="147.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="182.0" cy="140.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="189.0" cy="133.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="196.0" cy="126.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="161.0" cy="175.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="168.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="175.0" cy="161.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="182.0" cy="154.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="189.0" cy="147.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="196.0" cy="140.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="203.0" cy="133.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="210.0" cy="126.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="168.0" cy="182.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="175.0" cy="175.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="182.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="189.0" cy="161.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="196.0" cy="154.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="203.0" cy="147.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="210.0" cy="140.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="217.0" cy="133.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="182.0" cy="182.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="189.0" cy="175.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="196.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="203.0" cy="161.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="210.0" cy="154.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="217.0" cy="147.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="189.0" cy="189.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="196.0" cy="182.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="203.0" cy="175.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="210.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="217.0" cy="161.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="210.0" cy="182.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="217.0" cy="175.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><circle cx="224.0" cy="168.0" r="1.2" fill="#f0d59a" stroke="#a4864e" stroke-width="0.7"/><g transform="translate(157 178) rotate(20)"><path d="M-2 -4 L2 -4 L4 1 L3 6 L-3 6 L-4 1Z" fill="url(#HunterTower-stone)" stroke-width="2.5"/><path d="M-1 -1 L1 -1" stroke="#e4eee3" stroke-width="1.8"/><path d="M-2 -5 L2 -5" stroke="#dfbd77" stroke-width="2"/></g><g transform="translate(173 187) rotate(-5)"><path d="M-2 -4 L2 -4 L4 1 L3 6 L-3 6 L-4 1Z" fill="url(#HunterTower-stone)" stroke-width="2.5"/><path d="M-1 -1 L1 -1" stroke="#e4eee3" stroke-width="1.8"/><path d="M-2 -5 L2 -5" stroke="#dfbd77" stroke-width="2"/></g><g transform="translate(190 194) rotate(0)"><path d="M-2 -4 L2 -4 L4 1 L3 6 L-3 6 L-4 1Z" fill="url(#HunterTower-stone)" stroke-width="2.5"/><path d="M-1 -1 L1 -1" stroke="#e4eee3" stroke-width="1.8"/><path d="M-2 -5 L2 -5" stroke="#dfbd77" stroke-width="2"/></g><g transform="translate(209 186) rotate(-18)"><path d="M-2 -4 L2 -4 L4 1 L3 6 L-3 6 L-4 1Z" fill="url(#HunterTower-stone)" stroke-width="2.5"/><path d="M-1 -1 L1 -1" stroke="#e4eee3" stroke-width="1.8"/><path d="M-2 -5 L2 -5" stroke="#dfbd77" stroke-width="2"/></g><g transform="translate(225 176) rotate(-25)"><path d="M-2 -4 L2 -4 L4 1 L3 6 L-3 6 L-4 1Z" fill="url(#HunterTower-stone)" stroke-width="2.5"/><path d="M-1 -1 L1 -1" stroke="#e4eee3" stroke-width="1.8"/><path d="M-2 -5 L2 -5" stroke="#dfbd77" stroke-width="2"/></g></g>
+<g id="HunterTower-throwing-hand-and-arm">
+ <path d="M95 131 Q106 127 114 141 L124 150 L148 121 L148 115 L154 110 L161 113 L165 120 L162 127 L156 129 L136 164 Q127 175 116 165 L99 153Z" fill="url(#HunterTower-skin)"/>
+ <path d="M94 129 Q105 124 114 138 L106 150 L94 145Z" fill="url(#HunterTower-greenCloth)" stroke-width="3.5"/>
+ <path d="M105 143 L112 138 L116 143 L108 150Z" fill="url(#HunterTower-ivory)" stroke-width="2.5"/>
+ <path d="M116 153 L124 159" stroke="#c28a56" stroke-width="2.5"/>
+ <path d="M149 117 L156 123 M154 113 L161 119" stroke="#ad7548" stroke-width="2.2"/>
+ <path d="M214 119 L220 119 Q226 123 223 129 L216 134 L210 130Z" fill="url(#HunterTower-skin)" stroke-width="3"/>
+ <path d="M216 122 L219 128" stroke="#ad7548" stroke-width="2.2"/>
+</g>
+<g id="HunterTower-gathered-net-cord">
+ <path d="M163 121 C170 112 179 116 175 126 C173 132 165 132 163 126 C161 121 169 117 170 123" stroke="#5b4c34" stroke-width="5"/>
+ <path d="M163 121 C170 112 179 116 175 126 C173 132 165 132 163 126 C161 121 169 117 170 123" stroke="#e3c689" stroke-width="2.6"/>
+ <path d="M171 129 C180 140 177 150 183 156" stroke="#634f32" stroke-width="3.8"/>
+ <path d="M171 129 C180 140 177 150 183 156" stroke="#d9b573" stroke-width="1.8"/>
+</g>
+</g></svg>

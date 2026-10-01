@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="GunmanTower-title GunmanTower-desc">
+<title id="GunmanTower-title">Gunman tower</title><desc id="GunmanTower-desc">A blue-uniformed gunner with bronze goggles, red neck scarf, ammunition belt, padded boots and a compact wood-stock carbine. Three-quarter view, aiming right. Original vector artwork.</desc><defs><linearGradient id="GunmanTower-skinDark" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#eeb781"/><stop offset="0.500" stop-color="#c7824d"/><stop offset="1.000" stop-color="#985134"/></linearGradient><linearGradient id="GunmanTower-leather" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#bc7c40"/><stop offset="0.500" stop-color="#875029"/><stop offset="1.000" stop-color="#593221"/></linearGradient><linearGradient id="GunmanTower-wood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#dca45c"/><stop offset="0.500" stop-color="#a86b36"/><stop offset="1.000" stop-color="#6d3c23"/></linearGradient><linearGradient id="GunmanTower-steel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#e4f3f2"/><stop offset="0.500" stop-color="#89adb9"/><stop offset="1.000" stop-color="#4f6a82"/></linearGradient><linearGradient id="GunmanTower-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><linearGradient id="GunmanTower-gold" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff1a0"/><stop offset="0.500" stop-color="#ebc04f"/><stop offset="1.000" stop-color="#b57929"/></linearGradient><linearGradient id="GunmanTower-redCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fa8062"/><stop offset="0.500" stop-color="#c94842"/><stop offset="1.000" stop-color="#7e3034"/></linearGradient><linearGradient id="GunmanTower-blueCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#86b3ce"/><stop offset="0.500" stop-color="#477494"/><stop offset="1.000" stop-color="#314a64"/></linearGradient><linearGradient id="GunmanTower-brass" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff0a2"/><stop offset="0.500" stop-color="#c99447"/><stop offset="1.000" stop-color="#87622f"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="GunmanTower-backpack">
+<path d="M72 119 Q80 108 92 119 L91 172 L68 173 L62 151Z" fill="url(#GunmanTower-leather)"/>
+<path d="M68 132 L84 132 M68 147 L80 147" stroke="#d5aa71" stroke-width="3"/>
+</g>
+<g id="GunmanTower-legs-and-boots">
+<path d="M89 169 L114 171 L109 207 L86 205Z M126 172 L149 167 L153 204 L130 209Z" fill="url(#GunmanTower-blueCloth)"/>
+<path d="M97 180 L95 199 M138 180 L140 198" stroke="#233b54" stroke-width="3"/>
+<path d="M85 199 L109 202 L112 223 L75 223 L75 215 L85 208Z M129 200 L152 197 L155 210 Q167 212 166 222 L131 223Z" fill="url(#GunmanTower-darkSteel)"/>
+<path d="M78 218 L108 218 M134 218 L163 217" stroke="#b2b6a4" stroke-width="3"/>
+<path d="M87 206 L102 207 M135 206 L148 204" stroke="#8695a0" stroke-width="3"/>
+</g>
+<g id="GunmanTower-jacket">
+<path d="M89 114 L129 111 Q148 119 151 151 L154 181 Q119 196 82 181 L83 143Z" fill="url(#GunmanTower-blueCloth)"/>
+<path d="M92 124 L107 127 L107 167 L88 164Z M119 127 L138 123 L145 163 L120 169Z" fill="url(#GunmanTower-darkSteel)" stroke-width="3.5"/>
+<path d="M114 130 L114 165" stroke="#c7cabb" stroke-width="3"/>
+<path d="M92 137 L103 139 M92 145 L102 147 M124 139 L138 136 M126 146 L139 143" stroke="#a6becc" stroke-width="2.5"/>
+<path d="M84 166 Q117 179 149 163 L154 179 Q116 194 82 180Z" fill="url(#GunmanTower-leather)" stroke-width="3.5"/>
+<path d="M110 175 L127 174 L129 186 L111 189Z" fill="url(#GunmanTower-gold)" stroke-width="2.5"/>
+<path d="M115 179 L123 178 L124 182 L116 184Z" fill="#66512f" stroke="none"/>
+<path d="M137 173 L151 169 L158 193 L143 196Z" fill="url(#GunmanTower-leather)" stroke-width="3"/>
+<g fill="url(#GunmanTower-brass)" stroke-width="2"><path d="M89 168 L94 169 L94 179 L88 178Z"/><path d="M98 171 L103 172 L103 182 L97 181Z"/></g>
+</g>
+<g id="GunmanTower-scarf">
+<path d="M93 109 L108 106 L139 111 L139 123 Q116 137 95 122Z" fill="url(#GunmanTower-redCloth)" stroke-width="3.5"/>
+<path d="M100 118 L96 144 L84 148 L88 137 L82 126 L93 115Z" fill="url(#GunmanTower-redCloth)" stroke-width="3.5"/>
+<path d="M102 117 Q121 125 134 118" stroke="#ffad7d" stroke-width="3"/>
+</g>
+<g id="GunmanTower-head">
+<path d="M88 66 Q99 46 124 48 Q149 53 154 77 L153 94 L160 99 L151 106 Q141 123 119 119 L96 108Z" fill="url(#GunmanTower-skinDark)"/>
+<path d="M92 87 Q80 77 78 89 Q77 100 92 100" fill="url(#GunmanTower-skinDark)" stroke-width="3.5"/>
+<path d="M85 88 L90 93" stroke="#895536" stroke-width="2.5"/>
+<path d="M116 85 L128 83 M140 83 L151 84" stroke="#463527" stroke-width="4"/>
+<ellipse cx="124" cy="92" rx="3.2" ry="4.5" fill="#203040" stroke="none"/>
+<ellipse cx="146" cy="91" rx="3" ry="4.3" fill="#203040" stroke="none"/>
+<path d="M136 92 L141 100 L135 103" stroke="#905935" stroke-width="2.5"/>
+<path d="M121 110 Q135 115 145 108" stroke="#553e30" stroke-width="3"/>
+<path d="M126 111 L137 111" stroke="#ffdbb1" stroke-width="2.5"/>
+</g>
+<g id="GunmanTower-helmet-and-goggles">
+<path d="M84 77 Q75 36 108 30 Q139 24 154 48 L158 71 L147 79 L107 73 L96 87 L85 87Z" fill="url(#GunmanTower-blueCloth)"/>
+<path d="M116 31 Q131 41 131 66 L122 71 Q124 44 106 31Z" fill="url(#GunmanTower-redCloth)" stroke-width="3"/>
+<path d="M82 64 Q110 56 153 62 L160 75 Q129 71 104 78 L89 79Z" fill="url(#GunmanTower-darkSteel)" stroke-width="3.5"/>
+<path d="M92 44 Q98 35 107 36" stroke="#c2d9df" stroke-width="3.5"/>
+<path d="M104 53 L117 50 L126 55 L123 69 L107 70 L102 64Z" fill="url(#GunmanTower-brass)" stroke-width="3"/>
+<path d="M131 52 L145 53 L151 59 L149 70 L134 69 L128 62Z" fill="url(#GunmanTower-brass)" stroke-width="3"/>
+<path d="M109 57 L119 56 L120 64 L109 65Z M136 57 L144 58 L146 65 L135 64Z" fill="#79c9d0" stroke="#375360" stroke-width="2"/>
+<path d="M111 58 L116 62 M138 58 L142 62" stroke="#e9ffff" stroke-width="2.5"/>
+<path d="M124 58 L130 58" stroke="#e3b95e" stroke-width="4"/>
+</g>
+<g id="GunmanTower-rear-aiming-arm">
+<path d="M138 126 Q148 122 155 135 L170 146 L191 135 L202 137 L202 147 L176 163 Q167 169 159 162 L143 151Z" fill="url(#GunmanTower-skinDark)"/>
+<path d="M140 123 Q154 124 159 136 L150 150 L137 140Z" fill="url(#GunmanTower-blueCloth)" stroke-width="3.5"/>
+</g>
+<g id="GunmanTower-carbine">
+<path d="M120 131 L139 126 L153 132 L171 132 L167 152 L146 151 L132 160 L119 156Z" fill="url(#GunmanTower-wood)"/>
+<path d="M117 132 L122 132 L126 156 L119 157Z" fill="url(#GunmanTower-darkSteel)" stroke-width="3"/>
+<path d="M150 125 L190 125 L197 139 L190 150 L155 150 L144 143Z" fill="url(#GunmanTower-darkSteel)"/>
+<path d="M155 127 L184 127 L186 135 L152 135Z" fill="url(#GunmanTower-steel)" stroke-width="2.5"/>
+<path d="M178 132 L217 132 L217 143 L178 143Z" fill="url(#GunmanTower-wood)" stroke-width="3.5"/>
+<path d="M211 128 L234 128 L239 132 L238 140 L211 140Z" fill="url(#GunmanTower-darkSteel)" stroke-width="3.5"/>
+<path d="M232 129 L242 129 L242 140 L233 140Z" fill="url(#GunmanTower-steel)" stroke-width="3.5"/>
+<path d="M222 127 L223 121 L229 121 L229 128" stroke-width="3"/>
+<path d="M164 149 L183 149 L180 166 L169 166Z" fill="#283744" stroke-width="3"/>
+<path d="M181 151 Q188 159 194 150" stroke-width="3"/>
+<path d="M185 135 L185 142 M194 135 L194 142 M203 135 L203 142" stroke="#6e452c" stroke-width="2"/>
+<path d="M159 132 L165 132" stroke="#e6f4e3" stroke-width="2.5"/>
+</g>
+<g id="GunmanTower-front-hands">
+<path d="M99 135 Q109 130 115 141 L126 154 L151 148 Q160 145 167 151 L169 159 L160 166 L153 161 L128 174 Q118 178 111 168 L97 152" fill="url(#GunmanTower-skinDark)"/>
+<path d="M98 132 Q111 128 116 141 L105 153 L94 144Z" fill="url(#GunmanTower-blueCloth)" stroke-width="3.5"/>
+<path d="M152 152 L158 158 M158 149 L165 155" stroke="#8e5637" stroke-width="2.5"/>
+<path d="M189 140 L198 140 Q205 145 201 152 L190 154 L185 148Z" fill="url(#GunmanTower-skinDark)" stroke-width="3"/>
+<path d="M194 143 L196 148" stroke="#8e5637" stroke-width="2"/>
+</g></g></svg>

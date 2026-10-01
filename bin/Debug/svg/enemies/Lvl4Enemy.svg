@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="HybridTankEnemy-title HybridTankEnemy-desc">
+<title id="HybridTankEnemy-title">Hybrid tank balloon</title><desc id="HybridTankEnemy-desc">A jade-green balloon in bronze segmented armor with shoulder plates, rivets and stacked speed chevrons. Original vector artwork.</desc><defs><linearGradient id="HybridTankEnemy-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><linearGradient id="HybridTankEnemy-gold" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff1a0"/><stop offset="0.500" stop-color="#ebc04f"/><stop offset="1.000" stop-color="#b57929"/></linearGradient><linearGradient id="HybridTankEnemy-brass" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff0a2"/><stop offset="0.500" stop-color="#c99447"/><stop offset="1.000" stop-color="#87622f"/></linearGradient><radialGradient id="HybridTankEnemy-greenBalloon" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#bbf0bb"/><stop offset="0.333" stop-color="#51c199"/><stop offset="0.667" stop-color="#258b77"/><stop offset="1.000" stop-color="#1f5464"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="HybridTankEnemy-string"><path d="M129 215 C139 226 122 232 130 243" stroke="#839b80" stroke-width="3"/></g>
+<g id="HybridTankEnemy-rubber">
+<path d="M128 25 C82 25 56 58 58 104 C60 150 86 185 116 201 L141 201 C174 181 197 145 198 102 C200 57 174 25 128 25Z" fill="url(#HybridTankEnemy-greenBalloon)"/>
+<path d="M117 197 L111 212 Q127 220 145 212 L139 197Z" fill="url(#HybridTankEnemy-greenBalloon)"/>
+<path d="M118 201 Q128 205 137 200" stroke="#315853" stroke-width="3"/>
+<path d="M80 70 Q86 47 107 42" stroke="#e2ffd3" stroke-width="8" opacity="0.75"/>
+</g>
+<g id="HybridTankEnemy-bronze-armor">
+<path d="M62 82 L78 72 L94 101 L90 143 L106 170 L87 186 L67 159 L54 118Z" fill="url(#HybridTankEnemy-brass)"/>
+<path d="M193 81 L180 72 L163 101 L167 143 L150 170 L169 186 L190 158 L202 117Z" fill="url(#HybridTankEnemy-brass)"/>
+<path d="M99 31 Q126 22 151 31 L157 73 L144 83 L113 83 L99 73Z" fill="url(#HybridTankEnemy-darkSteel)"/>
+<path d="M119 29 L117 66 Q128 72 139 65 L135 28" fill="url(#HybridTankEnemy-brass)" stroke-width="3.5"/>
+<path d="M94 158 Q129 176 164 158 L174 182 Q129 206 82 182Z" fill="url(#HybridTankEnemy-brass)"/>
+<path d="M91 180 Q128 196 166 181" stroke="#ffdf87" stroke-width="3"/>
+<path d="M71 107 L88 108 M62 126 L88 124 M68 146 L89 139 M169 108 L190 107 M170 125 L197 126 M170 139 L188 147" stroke="#755938" stroke-width="3.5"/>
+<path d="M109 95 L128 86 L148 96 L149 128 L128 153 L106 129Z" fill="#245550" stroke="#173b43" stroke-width="3"/>
+<path d="M112 104 L128 113 L143 104 L143 115 L128 125 L112 116Z" fill="url(#HybridTankEnemy-gold)" stroke="none"/>
+<path d="M113 123 L128 132 L143 123 L128 143Z" fill="#8bddb0" stroke="none"/>
+<g fill="#fff1b0" stroke="#80633c" stroke-width="2.5"><circle cx="73" cy="92" r="3.8"/><circle cx="184" cy="93" r="3.8"/><circle cx="86" cy="171" r="4"/><circle cx="171" cy="171" r="4"/><circle cx="109" cy="185" r="3.5"/><circle cx="150" cy="185" r="3.5"/></g>
+<path d="M111 47 L110 60 M146 46 L148 60" stroke="#8b9c93" stroke-width="3"/>
+</g></g></svg>

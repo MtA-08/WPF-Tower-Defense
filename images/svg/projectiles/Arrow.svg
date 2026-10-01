@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="ArrowProjectile-title ArrowProjectile-desc">
+<title id="ArrowProjectile-title">Arrow projectile</title><desc id="ArrowProjectile-desc">A right-facing arrow with a wooden shaft, split ivory feather fletching, tied bindings and a beveled steel broadhead. Original vector artwork.</desc><defs><linearGradient id="ArrowProjectile-wood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#dca45c"/><stop offset="0.500" stop-color="#a86b36"/><stop offset="1.000" stop-color="#6d3c23"/></linearGradient><linearGradient id="ArrowProjectile-steel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#e4f3f2"/><stop offset="0.500" stop-color="#89adb9"/><stop offset="1.000" stop-color="#4f6a82"/></linearGradient><linearGradient id="ArrowProjectile-ivory" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fffae1"/><stop offset="0.500" stop-color="#ecdfb7"/><stop offset="1.000" stop-color="#c6aa7b"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="ArrowProjectile-shaft">
+<path d="M28 124 L194 124 L202 128 L194 132 L28 132Z" fill="url(#ArrowProjectile-wood)" stroke-width="4"/>
+<path d="M42 126 L191 126" stroke="#f5dba5" stroke-width="2"/>
+</g>
+<g id="ArrowProjectile-fletching">
+<path d="M35 123 L21 100 L49 102 L79 124Z" fill="url(#ArrowProjectile-ivory)" stroke-width="4"/>
+<path d="M35 133 L21 156 L49 154 L79 132Z" fill="url(#ArrowProjectile-ivory)" stroke-width="4"/>
+<path d="M29 105 L40 120 M42 108 L53 122 M55 113 L65 123 M29 151 L40 136 M42 148 L53 134 M55 143 L65 133" stroke="#b6a382" stroke-width="2.5"/>
+<path d="M27 128 L62 128" stroke="#544434" stroke-width="4"/>
+<path d="M65 123 L65 133 M70 123 L70 133 M75 124 L75 132" stroke="#917747" stroke-width="3"/>
+</g>
+<g id="ArrowProjectile-arrowhead">
+<path d="M182 116 L233 128 L182 141 L191 128Z" fill="url(#ArrowProjectile-steel)" stroke-width="4.5"/>
+<path d="M187 119 L225 127 L195 127Z" fill="#eaf7f4" stroke="none"/>
+<path d="M193 130 L225 129 L187 138Z" fill="#657f91" stroke="none"/>
+<path d="M190 128 L228 128" stroke="#8a9caa" stroke-width="2"/>
+<path d="M176 125 L176 132 M181 124 L181 132" stroke="#ede0b4" stroke-width="3"/>
+</g></g></svg>

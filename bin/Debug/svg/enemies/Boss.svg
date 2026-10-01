@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="LevelBossEnemy-title LevelBossEnemy-desc">
+<title id="LevelBossEnemy-title">Level boss balloon</title><desc id="LevelBossEnemy-desc">An oversized purple royal balloon with a gold crown, ruby insets, armored ribs and a faceted chest jewel. Original vector artwork.</desc><defs><linearGradient id="LevelBossEnemy-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><linearGradient id="LevelBossEnemy-gold" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff1a0"/><stop offset="0.500" stop-color="#ebc04f"/><stop offset="1.000" stop-color="#b57929"/></linearGradient><radialGradient id="LevelBossEnemy-ruby" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#fff1de"/><stop offset="0.333" stop-color="#ff7c85"/><stop offset="0.667" stop-color="#be204f"/><stop offset="1.000" stop-color="#6d183e"/></radialGradient><radialGradient id="LevelBossEnemy-purpleBalloon" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#efb6f5"/><stop offset="0.333" stop-color="#b362d2"/><stop offset="0.667" stop-color="#753ea1"/><stop offset="1.000" stop-color="#382851"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="LevelBossEnemy-string"><path d="M127 224 C124 233 139 239 131 247" stroke="#a783ac" stroke-width="3"/></g>
+<g id="LevelBossEnemy-balloon">
+<path d="M127 31 C77 30 38 62 39 112 C40 164 77 204 113 216 L143 216 C181 201 217 162 217 111 C217 61 178 31 127 31Z" fill="url(#LevelBossEnemy-purpleBalloon)"/>
+<path d="M118 211 L110 225 Q128 232 146 225 L139 211Z" fill="url(#LevelBossEnemy-purpleBalloon)"/>
+<path d="M115 216 Q129 220 142 216" stroke="#402440" stroke-width="3"/>
+<path d="M64 88 C62 72 77 59 89 55" stroke="#ffdbef" stroke-width="8" opacity="0.74"/>
+<path d="M189 67 Q225 131 164 188 Q192 141 183 100Z" fill="#322142" fill-opacity="0.36" stroke="none"/>
+</g>
+<g id="LevelBossEnemy-rib-armor">
+<path d="M59 67 L73 70 Q48 139 102 190 L90 201 Q30 151 49 91Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M194 67 L182 71 Q209 139 154 190 L166 201 Q226 151 207 91Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M45 108 Q128 144 212 108 L211 132 Q126 171 45 132Z" fill="url(#LevelBossEnemy-darkSteel)"/>
+<path d="M47 113 Q128 150 210 113" stroke="#d5b368" stroke-width="4"/>
+<path d="M52 139 Q62 168 86 185 L98 174 Q70 150 68 138Z" fill="#72465c" stroke-width="3"/>
+<path d="M204 139 Q194 168 171 185 L158 174 Q184 152 188 138Z" fill="#72465c" stroke-width="3"/>
+<path d="M86 185 Q127 203 171 184 L176 202 Q128 225 79 202Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M90 199 Q128 214 166 199" stroke="#fff1b0" stroke-width="3"/>
+<g fill="#fff4b4" stroke="#94662e" stroke-width="2.5"><circle cx="54" cy="105" r="4"/><circle cx="62" cy="151" r="4"/><circle cx="78" cy="176" r="4"/><circle cx="201" cy="104" r="4"/><circle cx="194" cy="151" r="4"/><circle cx="178" cy="176" r="4"/><circle cx="101" cy="202" r="3.5"/><circle cx="152" cy="202" r="3.5"/></g>
+</g>
+<g id="LevelBossEnemy-crown">
+<path d="M88 61 L80 25 L105 37 L126 13 L148 37 L176 24 L168 62 Q128 76 88 61Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M94 55 L91 40 L109 49 L127 29 L145 49 L164 40 L160 55 Q128 65 94 55Z" fill="#a96c31" stroke="none"/>
+<path d="M88 61 Q128 73 168 61 L164 75 Q128 86 91 74Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M126 17 L135 31 L126 42 L118 31Z" fill="url(#LevelBossEnemy-ruby)" stroke-width="2.5"/>
+<circle cx="81" cy="24" r="5" fill="url(#LevelBossEnemy-gold)" stroke-width="3"/><circle cx="126" cy="12" r="5" fill="url(#LevelBossEnemy-gold)" stroke-width="3"/><circle cx="177" cy="23" r="5" fill="url(#LevelBossEnemy-gold)" stroke-width="3"/>
+<path d="M101 68 L108 69 M146 69 L154 68" stroke="#fff6ba" stroke-width="3"/>
+</g>
+<g id="LevelBossEnemy-jewel">
+<path d="M128 92 L153 112 L150 144 L128 163 L104 143 L102 112Z" fill="url(#LevelBossEnemy-gold)"/>
+<path d="M128 103 L143 117 L141 138 L128 150 L113 137 L113 117Z" fill="url(#LevelBossEnemy-ruby)" stroke="#793340" stroke-width="3"/>
+<path d="M128 104 L126 127 L114 117Z" fill="#ffd5d7" stroke="none"/>
+<path d="M126 127 L141 118 L140 136 L128 149Z" fill="#b72963" stroke="none"/>
+<path d="M117 138 L126 127 L128 149Z" fill="#f87b91" stroke="none"/>
+</g></g></svg>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="SniperBulletProjectile-title SniperBulletProjectile-desc">
+<title id="SniperBulletProjectile-title">Sniper bullet projectile</title><desc id="SniperBulletProjectile-desc">An elongated right-facing match bullet with a boat tail, gold-copper jacket and pointed dark-steel nose. Bullet only, without cartridge case or motion trail. Original vector artwork.</desc><defs><linearGradient id="SniperBulletProjectile-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><linearGradient id="SniperBulletProjectile-brass" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff0a2"/><stop offset="0.500" stop-color="#c99447"/><stop offset="1.000" stop-color="#87622f"/></linearGradient><linearGradient id="SniperBulletProjectile-copper" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffc78b"/><stop offset="0.500" stop-color="#d68951"/><stop offset="1.000" stop-color="#a75637"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="SniperBulletProjectile-bullet">
+<path d="M35 117 L56 107 L145 107 Q186 111 224 128 Q186 145 145 149 L56 149 L35 139Z" fill="url(#SniperBulletProjectile-brass)" stroke-width="5"/>
+<path d="M57 112 L144 112 Q174 114 197 124 L145 121 L58 121Z" fill="#fff0b2" stroke="none"/>
+<path d="M57 141 L145 140 Q180 137 218 129 Q183 146 145 147 L57 147Z" fill="#996333" stroke="none"/>
+<path d="M35 117 L56 107 L56 149 L35 139Z" fill="url(#SniperBulletProjectile-copper)" stroke-width="3.5"/>
+<path d="M41 119 L50 115 L50 126 L41 127Z" fill="#ffd1a0" stroke="none"/>
+<path d="M162 110 Q191 116 224 128 Q192 140 162 146 L166 128Z" fill="url(#SniperBulletProjectile-darkSteel)" stroke-width="3.5"/>
+<path d="M169 115 L215 127 L171 123Z" fill="#b8d2d4" stroke="none"/>
+<path d="M166 137 L215 129 L164 142Z" fill="#263947" stroke="none"/>
+<path d="M82 109 L82 147 M90 109 L90 147" stroke="#846030" stroke-width="2.5"/>
+<path d="M86 110 L86 146" stroke="#ffe3a0" stroke-width="3"/>
+<path d="M108 114 L141 114" stroke="#fff6cf" stroke-width="3"/>
+</g></g></svg>

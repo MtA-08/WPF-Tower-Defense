@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="CavemanTower-title CavemanTower-desc">
+<title id="CavemanTower-title">Caveman tower</title><desc id="CavemanTower-desc">A chibi caveman with tousled hair, animal-hide tunic, pebble pouch and primitive wooden slingshot. Three-quarter view, aiming right. Original vector artwork.</desc><defs><linearGradient id="CavemanTower-skin" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffe1a5"/><stop offset="0.500" stop-color="#ecae72"/><stop offset="1.000" stop-color="#c77547"/></linearGradient><linearGradient id="CavemanTower-hair" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#785033"/><stop offset="0.500" stop-color="#4c3025"/><stop offset="1.000" stop-color="#2b2325"/></linearGradient><linearGradient id="CavemanTower-leather" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#bc7c40"/><stop offset="0.500" stop-color="#875029"/><stop offset="1.000" stop-color="#593221"/></linearGradient><linearGradient id="CavemanTower-wood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#dca45c"/><stop offset="0.500" stop-color="#a86b36"/><stop offset="1.000" stop-color="#6d3c23"/></linearGradient><linearGradient id="CavemanTower-stone" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#cad4d8"/><stop offset="0.500" stop-color="#8c9da9"/><stop offset="1.000" stop-color="#5e7386"/></linearGradient><linearGradient id="CavemanTower-ivory" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fffae1"/><stop offset="0.500" stop-color="#ecdfb7"/><stop offset="1.000" stop-color="#c6aa7b"/></linearGradient><linearGradient id="CavemanTower-orangeCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#f5bf6b"/><stop offset="0.500" stop-color="#d68e3c"/><stop offset="1.000" stop-color="#9e582b"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="CavemanTower-legs">
+<path d="M91 175 L113 177 L112 211 Q105 224 78 219 L78 211 L91 204Z" fill="url(#CavemanTower-skin)"/>
+<path d="M125 179 L146 177 L151 205 Q168 211 157 219 L131 220 L125 209Z" fill="url(#CavemanTower-skin)"/>
+<path d="M82 217 L89 211 M92 219 L98 213 M102 216 L106 209 M140 217 L139 211 M150 216 L148 210" stroke="#945a3b" stroke-width="2.5"/>
+</g>
+<g id="CavemanTower-rear-arm">
+<path d="M90 126 Q78 119 72 131 L61 157 Q64 170 81 169 L95 146Z" fill="url(#CavemanTower-skin)"/>
+<path d="M70 152 L82 157" stroke="#b16d41" stroke-width="3"/>
+</g>
+<g id="CavemanTower-tunic">
+<path d="M100 109 L134 106 Q151 117 153 140 L155 180 L140 176 L130 191 L118 180 L104 192 L95 180 L77 183 L84 145Z" fill="url(#CavemanTower-orangeCloth)"/>
+<path d="M88 148 L95 129 L143 154 L149 178 L138 171 L132 184 L123 174Z" fill="#b87436" stroke="none"/>
+<path d="M112 111 L148 151" stroke="#583b2a" stroke-width="9"/>
+<path d="M112 111 L148 151" stroke="#cd995e" stroke-width="4"/>
+<path d="M81 159 Q118 169 151 152 L155 163 Q116 182 80 170Z" fill="url(#CavemanTower-leather)" stroke-width="3.5"/>
+<path d="M98 136 L109 135 L105 145 L96 143Z M132 146 L140 145 L137 151Z M110 177 L114 169 L120 174Z M90 177 L94 172 L98 180Z" fill="#664332" stroke="none"/>
+<path d="M125 162 L135 157 L142 168 L130 175Z" fill="url(#CavemanTower-ivory)" stroke-width="2.5"/>
+</g>
+<g id="CavemanTower-pebble-pouch">
+<path d="M65 155 Q76 149 90 155 L94 176 Q78 189 62 178Z" fill="url(#CavemanTower-leather)" stroke-width="3.5"/>
+<path d="M66 155 Q77 163 90 155" stroke="#dfb87a" stroke-width="3"/>
+<path d="M66 153 L70 145 L79 142 L86 147 L88 154Z" fill="url(#CavemanTower-stone)" stroke-width="3"/>
+<path d="M73 148 L81 147" stroke="#e0e6d4" stroke-width="2.5"/>
+<path d="M72 169 L84 169 M77 164 L77 174" stroke="#d5a163" stroke-width="2"/>
+</g>
+<g id="CavemanTower-head">
+<path d="M86 63 Q91 39 121 40 Q153 42 160 68 L159 93 L164 100 L154 109 Q137 127 111 117 L88 104Z" fill="url(#CavemanTower-skin)"/>
+<path d="M88 82 C73 72 69 90 80 99 L91 98" fill="url(#CavemanTower-skin)"/>
+<path d="M79 87 L86 92" stroke="#b47750" stroke-width="3"/>
+<path d="M90 97 Q107 115 123 114 Q150 113 156 104 L152 120 L134 133 L130 123 L119 134 L112 123 L102 125 L100 115 L91 112Z" fill="url(#CavemanTower-hair)"/>
+<path d="M115 111 Q127 116 141 110" stroke="#f6c491" stroke-width="3"/>
+<path d="M88 87 L80 71 L86 58 L79 52 L95 43 L94 32 L109 36 L121 24 L132 34 L151 28 L151 40 L168 44 L160 53 L167 64 L150 68 L143 59 L128 69 L115 62 L107 76 L97 72 L98 89Z" fill="url(#CavemanTower-hair)"/>
+<path d="M95 51 L107 48 L119 38 M133 44 L146 43 M97 67 L107 57" stroke="#a16f44" stroke-width="3"/>
+<path d="M118 84 Q124 79 130 82 M140 82 L149 83" stroke="#453024" stroke-width="4"/>
+<ellipse cx="124" cy="91" rx="3.5" ry="5.5" fill="#243040" stroke="none"/>
+<ellipse cx="145" cy="91" rx="3.3" ry="5" fill="#243040" stroke="none"/>
+<path d="M135 90 L139 99 L132 100" stroke="#b16b45" stroke-width="2.5"/>
+</g>
+<g id="CavemanTower-slingshot">
+<path d="M190 148 L188 123 L174 101 L178 86 L187 101 L196 111 L204 93 L217 90 L209 110 L202 126 L203 148Z" fill="url(#CavemanTower-wood)"/>
+<path d="M195 130 L196 141 M181 99 L193 117 M204 102 L200 116" stroke="#e6b879" stroke-width="2.5"/>
+<path d="M178 89 L145 111 L207 95" stroke="#533e31" stroke-width="3.5"/>
+<path d="M142 105 L151 105 L155 115 L144 119Z" fill="url(#CavemanTower-leather)" stroke-width="2.5"/>
+<path d="M178 85 L182 95 M208 89 L214 95" stroke="#edcb92" stroke-width="4"/>
+</g>
+<g id="CavemanTower-front-arms">
+<path d="M140 127 Q145 119 152 128 L166 145 L186 137 L197 137 Q204 142 200 150 L190 156 L161 167 Q153 169 147 161 L134 143" fill="url(#CavemanTower-skin)"/>
+<path d="M186 141 L189 151 M192 140 L195 148" stroke="#a66740" stroke-width="2.5"/>
+<path d="M90 124 Q99 118 104 130 L112 143 L137 112 Q143 105 149 113 Q151 119 144 125 L119 157 Q111 165 103 157 L89 142" fill="url(#CavemanTower-skin)"/>
+<path d="M102 137 L113 149 M135 118 L140 123" stroke="#bd7c4e" stroke-width="3"/>
+</g></g></svg>
