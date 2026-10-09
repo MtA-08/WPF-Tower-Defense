@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="SniperTower-title SniperTower-desc">
+<title id="SniperTower-title">Sniper tower</title><desc id="SniperTower-desc">A concealed ranger with a layered teal ghillie hood, leafy cape, leather field gear and a long green scoped rifle. Three-quarter view, aiming right. Original vector artwork.</desc><defs><linearGradient id="SniperTower-skin" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffe1a5"/><stop offset="0.500" stop-color="#ecae72"/><stop offset="1.000" stop-color="#c77547"/></linearGradient><linearGradient id="SniperTower-leather" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#bc7c40"/><stop offset="0.500" stop-color="#875029"/><stop offset="1.000" stop-color="#593221"/></linearGradient><linearGradient id="SniperTower-wood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#dca45c"/><stop offset="0.500" stop-color="#a86b36"/><stop offset="1.000" stop-color="#6d3c23"/></linearGradient><linearGradient id="SniperTower-steel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#e4f3f2"/><stop offset="0.500" stop-color="#89adb9"/><stop offset="1.000" stop-color="#4f6a82"/></linearGradient><linearGradient id="SniperTower-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><linearGradient id="SniperTower-greenCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#89bb72"/><stop offset="0.500" stop-color="#497b4c"/><stop offset="1.000" stop-color="#315540"/></linearGradient><linearGradient id="SniperTower-tealCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#76bdae"/><stop offset="0.500" stop-color="#43887c"/><stop offset="1.000" stop-color="#2c5b59"/></linearGradient><linearGradient id="SniperTower-brass" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff0a2"/><stop offset="0.500" stop-color="#c99447"/><stop offset="1.000" stop-color="#87622f"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="SniperTower-cape">
+<path d="M87 79 Q60 105 58 154 L49 192 L65 190 L75 207 L90 195 L107 207 L129 190 L152 200 L168 187 L151 154 L149 101Z" fill="url(#SniperTower-tealCloth)"/>
+<path d="M72 130 L67 176 M148 151 L153 177 M85 166 L78 187" stroke="#234c4a" stroke-width="4"/>
+<path d="M63 132 L54 144 L65 145 L61 160 L72 154 M58 172 L51 183 L66 180 M152 142 L162 153 L153 157 L163 169 L151 167" fill="#74a391" stroke-width="3"/>
+</g>
+<g id="SniperTower-legs">
+<path d="M93 166 L116 175 L107 208 L85 207Z M128 174 L148 168 L158 206 L136 211Z" fill="url(#SniperTower-greenCloth)"/>
+<path d="M84 199 L107 201 L109 222 L72 222 L72 213 L84 208Z M135 201 L156 197 L160 210 Q175 213 171 222 L137 223Z" fill="url(#SniperTower-leather)"/>
+<path d="M77 218 L106 218 M141 218 L168 217 M88 204 L102 206 M143 205 L152 204" stroke="#d3ac7a" stroke-width="2.5"/>
+<path d="M96 184 L108 188 M139 183 L151 181" stroke="#b0c38c" stroke-width="3"/>
+</g>
+<g id="SniperTower-field-jacket">
+<path d="M98 108 L129 106 Q147 121 150 150 L155 184 Q124 197 85 181 L86 142Z" fill="url(#SniperTower-greenCloth)"/>
+<path d="M94 123 L107 127 L104 151 L91 145Z M121 125 L139 121 L144 145 L122 151Z" fill="#6b8560" stroke-width="3"/>
+<path d="M103 112 L142 168" stroke="#4e3b2d" stroke-width="12"/>
+<path d="M103 112 L142 168" stroke="#ac8350" stroke-width="7"/>
+<path d="M87 164 Q119 175 149 161 L154 176 Q120 191 84 178Z" fill="url(#SniperTower-leather)" stroke-width="3.5"/>
+<path d="M116 174 L128 172 L131 183 L117 186Z" fill="url(#SniperTower-brass)" stroke-width="2.5"/>
+<path d="M90 162 L105 165 L103 182 L86 179Z" fill="#78916d" stroke-width="3"/>
+<path d="M90 167 L103 170" stroke="#b0c499" stroke-width="2"/>
+<path d="M138 172 L151 168 L158 184 L145 189Z" fill="#6c7856" stroke-width="3"/>
+</g>
+<g id="SniperTower-hood">
+<path d="M87 102 Q70 88 73 62 L83 47 L80 37 L97 37 L107 27 L121 31 L139 26 L144 38 L157 46 L154 63 L163 75 L154 95 L154 111 L138 121 L113 110 L91 123Z" fill="url(#SniperTower-tealCloth)"/>
+<path d="M91 76 Q101 53 128 53 Q146 57 153 78 L149 105 Q131 123 109 108 L95 100Z" fill="#263f3e" stroke-width="3"/>
+<path d="M103 72 Q124 60 144 74 L149 90 L156 98 L149 104 Q139 118 123 113 L108 102Z" fill="url(#SniperTower-skin)"/>
+<path d="M108 91 Q97 85 97 94 Q97 102 110 105" fill="url(#SniperTower-skin)" stroke-width="3"/>
+<path d="M106 78 L110 86 L118 76 L146 80 L143 64 L118 58Z" fill="#394739" stroke-width="3"/>
+<path d="M119 88 L130 85 M140 85 L148 89" stroke="#464731" stroke-width="4"/>
+<path d="M121 93 L129 91" stroke="#22353c" stroke-width="3"/>
+<ellipse cx="146" cy="94" rx="2.8" ry="3.8" fill="#263740" stroke="none"/>
+<path d="M137 93 L140 101 L135 102" stroke="#ae7d51" stroke-width="2.5"/>
+<path d="M114 99 L122 104 M141 104 L147 102" stroke="#638463" stroke-width="4.5"/>
+<path d="M126 110 L139 109" stroke="#8b6549" stroke-width="2.5"/>
+<path d="M85 72 L97 62 L100 48 L89 54Z M108 43 L111 61 L121 50 L127 38Z M135 40 L136 57 L148 62 L146 50Z" fill="#91b38b" stroke-width="3"/>
+<path d="M78 78 L82 95 L94 99 L95 83Z M149 78 L161 83 L154 95 L144 94Z" fill="#4f896f" stroke-width="3"/>
+<path d="M85 105 L97 109 L112 121 L101 136 L91 128 L83 130 L86 118 L74 120Z" fill="url(#SniperTower-tealCloth)" stroke-width="3.5"/>
+<path d="M88 110 L99 122 M106 114 L104 123" stroke="#a5c3a0" stroke-width="2.5"/>
+</g>
+<g id="SniperTower-rear-arm">
+<path d="M141 132 Q149 127 157 138 L173 150 L193 138 L203 141 L203 150 L177 168 L167 168 L145 152Z" fill="url(#SniperTower-greenCloth)"/>
+<path d="M185 144 L195 139 L202 143 L201 153 L191 157 L183 152Z" fill="url(#SniperTower-leather)" stroke-width="3"/>
+</g>
+<g id="SniperTower-rifle">
+<path d="M107 132 L130 127 L146 138 L172 137 L172 150 L146 153 L133 169 L117 169 L121 151 L109 149Z" fill="url(#SniperTower-wood)"/>
+<path d="M104 133 L112 132 L116 155 L108 157Z" fill="url(#SniperTower-darkSteel)" stroke-width="3"/>
+<path d="M143 129 L177 127 L183 137 L175 149 L141 146Z" fill="url(#SniperTower-darkSteel)" stroke-width="3.5"/>
+<path d="M165 133 L207 130 L209 143 L166 147Z" fill="url(#SniperTower-greenCloth)" stroke-width="3.5"/>
+<path d="M205 129 L237 129 L238 137 L207 139Z" fill="url(#SniperTower-steel)" stroke-width="3.5"/>
+<path d="M230 126 L243 126 L243 140 L230 140Z" fill="url(#SniperTower-darkSteel)" stroke-width="3.5"/>
+<path d="M235 129 L239 129" stroke="#a5bbc1" stroke-width="2"/>
+<path d="M159 117 L159 128 M189 117 L189 130" stroke-width="6"/>
+<path d="M146 109 L158 105 L195 105 L202 109 L202 120 L157 120 L147 117Z" fill="url(#SniperTower-darkSteel)" stroke-width="3.5"/>
+<path d="M193 104 L208 103 L208 121 L193 120Z" fill="url(#SniperTower-tealCloth)" stroke-width="3"/>
+<ellipse cx="207" cy="112" rx="4" ry="8" fill="#8cd8d0" stroke-width="2.5"/>
+<path d="M205 108 L207 111" stroke="#eeffff" stroke-width="2"/>
+<path d="M170 104 L170 99 L179 99 L179 104Z" fill="url(#SniperTower-darkSteel)" stroke-width="3"/>
+<path d="M153 110 L186 110" stroke="#9cafb4" stroke-width="2.5"/>
+<path d="M173 133 L177 144 M188 133 L193 142" stroke="#c7caa0" stroke-width="4"/>
+<path d="M151 137 L156 130 L160 131" stroke="#c8d2c0" stroke-width="3"/>
+<path d="M166 148 Q170 159 180 149" stroke-width="3"/>
+</g>
+<g id="SniperTower-front-arm">
+<path d="M95 133 Q106 130 115 143 L128 156 L148 150 L157 152 L158 165 L129 177 Q119 181 109 170 L94 151Z" fill="url(#SniperTower-greenCloth)"/>
+<path d="M145 151 L154 148 L164 153 L165 161 L155 167 L146 164Z" fill="url(#SniperTower-leather)" stroke-width="3"/>
+<path d="M149 154 L156 161 M156 153 L162 158" stroke="#d2a775" stroke-width="2"/>
+<path d="M100 138 L109 146 L111 157 L99 151Z" fill="#a2b67d" stroke-width="2.5"/>
+<path d="M116 160 L124 167" stroke="#b2c395" stroke-width="2.5"/>
+</g></g></svg>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="SlowWeakEnemy-title SlowWeakEnemy-desc">
+<title id="SlowWeakEnemy-title">Slow weak balloon</title><desc id="SlowWeakEnemy-desc">A small coral-red rubber balloon with a tied neck, curling string and painted glossy highlights. Original vector artwork.</desc><defs><radialGradient id="SlowWeakEnemy-redBalloon" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#ffb599"/><stop offset="0.333" stop-color="#fa605b"/><stop offset="0.667" stop-color="#db3450"/><stop offset="1.000" stop-color="#9b2049"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="SlowWeakEnemy-string"><path d="M128 202 C128 216 139 218 133 231 C130 238 120 235 125 245" stroke="#ac8173" stroke-width="3"/></g>
+<g id="SlowWeakEnemy-balloon">
+<path d="M128 30 C94 30 69 56 69 96 C69 137 91 168 118 184 L138 184 C165 165 188 135 188 96 C188 56 163 30 128 30Z" fill="url(#SlowWeakEnemy-redBalloon)"/>
+<path d="M169 66 C184 109 163 152 136 171 C133 174 133 179 137 181 C169 160 184 128 184 97 C184 85 179 71 169 66Z" fill="#941c49" fill-opacity="0.28" stroke="none"/>
+<path d="M90 94 C85 73 99 51 117 47 C124 45 124 55 117 57 C103 62 98 74 98 88 C98 99 93 101 90 94Z" fill="#fff3dc" fill-opacity="0.78" stroke="none"/>
+<path d="M86 107 L87 113" stroke="#ffd8bc" stroke-width="5"/>
+<path d="M120 181 L115 198 Q128 205 141 198 L136 181Z" fill="url(#SlowWeakEnemy-redBalloon)"/>
+<path d="M119 185 Q128 189 137 185" stroke="#852947" stroke-width="4"/>
+<path d="M120 198 Q128 195 136 198" stroke="#ffac92" stroke-width="2.5"/>
+</g></g></svg>

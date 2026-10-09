@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="BulletProjectile-title BulletProjectile-desc">
+<title id="BulletProjectile-title">Bullet projectile</title><desc id="BulletProjectile-desc">A compact right-facing copper-jacketed bullet with a rounded ogive, bright rim and engraved cannelure. Bullet only, without cartridge case or motion trail. Original vector artwork.</desc><defs><linearGradient id="BulletProjectile-brass" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff0a2"/><stop offset="0.500" stop-color="#c99447"/><stop offset="1.000" stop-color="#87622f"/></linearGradient><linearGradient id="BulletProjectile-copper" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffc78b"/><stop offset="0.500" stop-color="#d68951"/><stop offset="1.000" stop-color="#a75637"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="BulletProjectile-bullet">
+<path d="M68 105 L120 105 Q160 105 190 128 Q160 151 120 151 L68 151Z" fill="url(#BulletProjectile-copper)" stroke-width="5"/>
+<path d="M70 111 L120 111 Q151 111 175 126 Q141 118 116 120 L71 120Z" fill="#ffe2ae" stroke="none"/>
+<path d="M71 140 L128 140 Q155 138 184 129 Q158 149 120 148 L70 148Z" fill="#a45a39" stroke="none"/>
+<path d="M71 104 L82 104 L82 152 L71 152 Q65 151 65 145 L65 111 Q65 105 71 104Z" fill="url(#BulletProjectile-brass)" stroke-width="4"/>
+<path d="M101 107 L101 149 M108 107 L108 149" stroke="#8c5837" stroke-width="2.5"/>
+<path d="M104 108 L104 148" stroke="#ffd39a" stroke-width="2.5"/>
+<path d="M73 111 L73 126" stroke="#fff4c9" stroke-width="3"/>
+<path d="M119 114 Q143 112 165 124" stroke="#fff1cd" stroke-width="3"/>
+</g></g></svg>

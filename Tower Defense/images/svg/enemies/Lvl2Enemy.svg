@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="SlowTankEnemy-title SlowTankEnemy-desc">
+<title id="SlowTankEnemy-title">Slow tank balloon</title><desc id="SlowTankEnemy-desc">A broad azure balloon fitted with layered silver-blue armor, heavy rivets and a shield insignia. Original vector artwork.</desc><defs><linearGradient id="SlowTankEnemy-steel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#e4f3f2"/><stop offset="0.500" stop-color="#89adb9"/><stop offset="1.000" stop-color="#4f6a82"/></linearGradient><linearGradient id="SlowTankEnemy-darkSteel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#657c8c"/><stop offset="0.500" stop-color="#394c60"/><stop offset="1.000" stop-color="#253142"/></linearGradient><radialGradient id="SlowTankEnemy-blueBalloon" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#c6efff"/><stop offset="0.333" stop-color="#56bbef"/><stop offset="0.667" stop-color="#267bcb"/><stop offset="1.000" stop-color="#244887"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="SlowTankEnemy-string"><path d="M128 214 C122 225 140 230 134 241" stroke="#7a909b" stroke-width="3"/></g>
+<g id="SlowTankEnemy-rubber">
+<path d="M128 26 C83 26 51 58 54 107 C57 154 83 185 116 198 L139 198 C176 181 202 148 202 104 C202 58 174 26 128 26Z" fill="url(#SlowTankEnemy-blueBalloon)"/>
+<path d="M116 195 L111 212 Q128 219 145 212 L138 194Z" fill="url(#SlowTankEnemy-blueBalloon)"/>
+<path d="M117 199 Q128 202 139 198" stroke="#263e6f" stroke-width="4"/>
+<path d="M76 76 C73 58 96 38 111 38" stroke="#e3f7ff" stroke-width="8" opacity="0.75"/>
+</g>
+<g id="SlowTankEnemy-armor">
+<path d="M61 84 L76 71 L91 88 L90 130 L108 158 L87 177 C70 159 58 136 55 111Z" fill="url(#SlowTankEnemy-steel)"/>
+<path d="M193 80 L179 71 L166 88 L165 130 L148 157 L169 178 C187 160 198 136 200 109Z" fill="url(#SlowTankEnemy-steel)"/>
+<path d="M85 62 Q126 44 171 62 L169 82 Q127 68 86 82Z" fill="url(#SlowTankEnemy-steel)"/>
+<path d="M91 65 Q125 53 162 64" stroke="#f1fcff" stroke-width="3"/>
+<path d="M84 152 Q128 170 172 152 L181 174 Q128 197 75 174Z" fill="url(#SlowTankEnemy-darkSteel)"/>
+<path d="M81 172 Q128 190 175 171" stroke="#9cbdcd" stroke-width="3"/>
+<path d="M103 91 L128 83 L153 92 L151 125 Q143 145 128 152 Q109 142 104 126Z" fill="url(#SlowTankEnemy-steel)"/>
+<path d="M111 98 L128 93 L145 99 L143 122 Q138 133 128 140 Q117 132 112 121Z" fill="#34567b" stroke-width="3"/>
+<path d="M128 101 L136 110 L128 127 L120 110Z" fill="#a0e4fa" stroke="none"/>
+<path d="M65 103 L76 100 M181 102 L191 106 M65 123 L77 120 M179 123 L190 126" stroke="#597c91" stroke-width="3"/>
+<g fill="#e6f6fa" stroke="#49687f" stroke-width="2.5"><circle cx="94" cy="68" r="3.8"/><circle cx="160" cy="68" r="3.8"/><circle cx="71" cy="87" r="3.8"/><circle cx="184" cy="86" r="3.8"/><circle cx="87" cy="168" r="4"/><circle cx="168" cy="168" r="4"/><circle cx="109" cy="177" r="3.5"/><circle cx="148" cy="177" r="3.5"/></g>
+</g></g></svg>

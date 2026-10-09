@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="PebbleProjectile-title PebbleProjectile-desc">
+<title id="PebbleProjectile-title">Pebble projectile</title><desc id="PebbleProjectile-desc">An irregular flint pebble with multiple mineral facets, painted highlights and small cracks. Transparent background; no baked-in motion trail. Original vector artwork.</desc><defs><radialGradient id="PebbleProjectile-pebble" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#e9e0c7"/><stop offset="0.333" stop-color="#beb59e"/><stop offset="0.667" stop-color="#888878"/><stop offset="1.000" stop-color="#5e685f"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="PebbleProjectile-stone">
+<path d="M77 92 L107 73 L146 79 L174 106 L180 139 L161 169 L126 181 L93 169 L70 142 L68 112Z" fill="url(#PebbleProjectile-pebble)" stroke-width="6"/>
+<path d="M78 95 L107 78 L103 109 L76 121Z" fill="#e8debc" stroke="none"/>
+<path d="M107 78 L144 84 L151 111 L119 115 L103 109Z" fill="#cbc3a8" stroke="none"/>
+<path d="M76 121 L103 109 L118 136 L98 158 L74 140Z" fill="#b4b19a" stroke="none"/>
+<path d="M145 85 L169 109 L163 131 L150 112Z" fill="#979d8c" stroke="none"/>
+<path d="M119 115 L150 112 L163 132 L144 153 L118 137Z" fill="#cac5ad" stroke="none"/>
+<path d="M173 111 L177 138 L158 165 L145 153 L163 132Z" fill="#727e70" stroke="none"/>
+<path d="M99 159 L117 138 L143 153 L127 175Z" fill="#919b87" stroke="none"/>
+<path d="M144 154 L158 166 L127 176Z" fill="#606f66" stroke="none"/>
+<path d="M87 96 L99 90 M80 105 L78 112" stroke="#fff6d7" stroke-width="5"/>
+<path d="M111 113 L124 123 L122 133 M125 123 L135 121 M147 150 L149 141" stroke="#777e70" stroke-width="3"/>
+<path d="M93 144 L97 145 M143 99 L147 102" stroke="#f0e7c9" stroke-width="3"/>
+<path d="M77 92 L107 73 L146 79 L174 106 L180 139 L161 169 L126 181 L93 169 L70 142 L68 112Z" stroke-width="6"/>
+</g></g></svg>

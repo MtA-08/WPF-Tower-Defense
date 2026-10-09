@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="FastHybridEnemy-title FastHybridEnemy-desc">
+<title id="FastHybridEnemy-title">Fast hybrid balloon</title><desc id="FastHybridEnemy-desc">A tapered amber speed balloon with teal stabilizer fins, a contrasting belt and an ivory lightning insignia. Original vector artwork.</desc><defs><linearGradient id="FastHybridEnemy-ivory" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fffae1"/><stop offset="0.500" stop-color="#ecdfb7"/><stop offset="1.000" stop-color="#c6aa7b"/></linearGradient><linearGradient id="FastHybridEnemy-tealCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#76bdae"/><stop offset="0.500" stop-color="#43887c"/><stop offset="1.000" stop-color="#2c5b59"/></linearGradient><radialGradient id="FastHybridEnemy-yellowBalloon" cx="0.32" cy="0.24" r="0.85" fx="0.26" fy="0.2"><stop offset="0.000" stop-color="#fff5bb"/><stop offset="0.333" stop-color="#ffce4b"/><stop offset="0.667" stop-color="#f69c2f"/><stop offset="1.000" stop-color="#cf5933"/></radialGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="FastHybridEnemy-fins" fill="url(#FastHybridEnemy-tealCloth)">
+<path d="M76 124 L48 160 L55 180 L82 164 L97 143Z"/>
+<path d="M178 122 L207 161 L201 181 L174 164 L159 142Z"/>
+<path d="M55 167 L77 149 M180 149 L200 169" stroke="#aad7b5" stroke-width="3"/>
+</g>
+<g id="FastHybridEnemy-string"><path d="M126 208 C119 220 136 224 129 237" stroke="#b08961" stroke-width="3"/></g>
+<g id="FastHybridEnemy-balloon">
+<path d="M128 22 C94 32 72 56 72 91 C72 130 94 176 117 193 L137 193 C161 173 183 131 183 91 C183 56 159 31 128 22Z" fill="url(#FastHybridEnemy-yellowBalloon)"/>
+<path d="M158 58 Q190 113 137 178 Q165 163 177 119 Q188 76 158 58Z" fill="#ba5b2a" fill-opacity="0.24" stroke="none"/>
+<path d="M91 82 C91 64 106 47 116 44" stroke="#fffce4" stroke-width="8" opacity="0.85"/>
+<path d="M86 94 L86 99" stroke="#fff5c4" stroke-width="4.5"/>
+<path d="M117 189 L112 207 Q126 214 143 207 L136 190Z" fill="url(#FastHybridEnemy-yellowBalloon)"/>
+<path d="M116 195 Q127 200 138 195" stroke="#ac622f" stroke-width="3"/>
+<path d="M77 121 Q127 146 178 120 L172 143 Q128 165 84 143Z" fill="url(#FastHybridEnemy-tealCloth)"/>
+<path d="M86 141 Q128 159 169 140" stroke="#bde8b8" stroke-width="3"/>
+<path d="M135 68 L106 106 L124 108 L116 136 L150 94 L130 93Z" fill="url(#FastHybridEnemy-ivory)" stroke="#a46b30" stroke-width="3.5"/>
+<path d="M141 157 L132 166 L122 163" stroke="#ffd785" stroke-width="3"/>
+</g></g></svg>

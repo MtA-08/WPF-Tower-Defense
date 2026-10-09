@@ -1,0 +1,299 @@
+﻿<Window x:Class="Tower_Defense.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tower_Defense"
+        mc:Ignorable="d"
+        Width="1600" Height="900" MaxWidth="1600" MaxHeight="900" MinWidth="1600" MinHeight="900"
+		WindowStyle="ToolWindow" MouseLeftButtonDown="GameArea_MouseLeftButtonDown" Drop="Window_Drop">
+	<Window.Background>
+		<ImageBrush ImageSource="/images/background.png"  Stretch="UniformToFill"/>
+	</Window.Background>
+
+	<Grid AllowDrop="True">
+		<local:GameVisual x:Name="GameSurface"/>
+		<Canvas Background="Transparent" x:Name="MainCanvas">
+			<!-- ############################# DEV CONTROLS ##################################### -->
+			<StackPanel Orientation="Horizontal" Canvas.Left="500" Canvas.Top="0" Margin="0">
+				<Button Content="Slow Weak"  Click="SpawnSlowWeakEnemy_Click" Margin="10"/>
+				<Button Content="Slow Tank"  Click="SpawnSlowTankEnemy_Click" Margin="10"/>
+				<Button Content="Fast Hybrid"  Click="SpawnFastHybridEnemy_Click" Margin="10"/>
+				<Button Content="Hybrid Tank"  Click="SpawnHybridTankEnemy_Click" Margin="10"/>
+				<Button Content="Level Boss"  Click="SpawnBossEnemy_Click" Margin="10"/>
+				<Button Content="Infinte Money" Click="GiveInfiniteMoney_Click" Margin="10"/>
+				<Button Content="Win Game" Click="WinGame_Click" Margin="10"/>
+				<Button Content="Lose Game" Click="LoseGame_Click" Margin="10"/>
+			</StackPanel>
+			<!-- ############################# DEV CONTROLS ##################################### -->
+
+			<StackPanel Orientation="Horizontal" x:Name="PlayerInformationContainer" Canvas.Left="10" Canvas.Top="10">
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/images/Heart.png" Height="50"/>
+					<TextBlock Text="{Binding RemainingLives}" FontFamily="Comic Sans MS" FontSize="30" FontWeight="ExtraBold" Foreground="White" 
+					   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+				</StackPanel>
+				<StackPanel Orientation="Horizontal" Margin="20,0,0,0">
+					<Image Source="/images/Coin.png" Height="50" />
+					<TextBlock Text="{Binding Money, StringFormat='\{0\}$'}" FontFamily="Comic Sans MS" FontSize="30" FontWeight="ExtraBold" Foreground="White" 
+							   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10"/>
+				</StackPanel>
+			</StackPanel>
+			
+			<TextBlock x:Name="WaveCounter" Text="{Binding CurrentWaveIndex, StringFormat=' Wave: \{0\}/40'}" 
+					   FontFamily="Comic Sans MS" FontSize="40" FontWeight="ExtraBold" Foreground="White"
+					   Canvas.Left="10" Canvas.Top="80"/>
+
+			<Button Style="{StaticResource PlainButton}" x:Name="PopupButton" Click="ToggleSettingsMenu_Click" Canvas.Left="1530" Canvas.Top="10" 
+					Background="Transparent" Cursor="Hand">
+				<Image Source="/images/settings.png" Height="50"/>
+			</Button>
+
+
+			<Grid AllowDrop="False" Canvas.Left="675" Canvas.Top="760" x:Name="TowerCardsDisplay">
+				<Image Source="/images/towerCardOverlay.png" Height="100" Margin="0" Panel.ZIndex="1"/>
+			</Grid>
+			
+			<Grid x:Name="CaveManTowerCard" MouseMove="CaveManTowerCard_MouseMove" Cursor="Hand" Canvas.Left="690" Canvas.Top="745">
+				<Image Source="/images/towerCardUnderlay.png" Height="90" Panel.ZIndex="2"/>
+
+				<Image Source="/images/towerPngs/Caveman.png" Height="70" Panel.ZIndex="3"/>
+				
+				<TextBlock Text="{Binding Price, StringFormat='$\{0\}'}" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" Foreground="White" 
+						   HorizontalAlignment="Center" VerticalAlignment="Bottom"  Panel.ZIndex="4" />
+			</Grid>
+
+
+			<Grid x:Name="ArcherTowerCard" MouseMove="CaveManTowerCard_MouseMove" Cursor="Hand" Canvas.Left="780" Canvas.Top="745">
+				<Image Source="/images/towerCardUnderlay.png" Height="90"/>
+
+				<Image Source="/images/towerPngs/Archer.png" Height="70" Panel.ZIndex="3"/>
+
+				<TextBlock Text="{Binding Price, StringFormat='$\{0\}'}" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" Foreground="White" 
+					   HorizontalAlignment="Center" VerticalAlignment="Bottom"  Panel.ZIndex="4" />
+			</Grid>
+
+			<!--
+			<Grid x:Name="HunterTowerCard" MouseMove="CaveManTowerCard_MouseMove" Cursor="Hand" Canvas.Left="870" Canvas.Top="750">
+				<Image Source="/images/towerCardUnderlay.png" Height="90"/>
+				<Image Source="/images/towerPngs/Hunter.png" Height="70" Panel.ZIndex="3"/>
+				<TextBlock Text="{Binding Price, StringFormat='$\{0\}'}" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" Foreground="White" 
+						HorizontalAlignment="Center" VerticalAlignment="Bottom"  Panel.ZIndex="4" />
+			</Grid>
+			-->
+
+			<Grid x:Name="GunmanTowerCard" MouseMove="CaveManTowerCard_MouseMove" Cursor="Hand" Canvas.Left="870" Canvas.Top="745">
+				<Image Source="/images/towerCardUnderlay.png" Height="90"/>
+				<Image Source="/images/towerPngs/Gunman.png" Height="70" Panel.ZIndex="3"/>
+				<TextBlock Text="{Binding Price, StringFormat='$\{0\}'}" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" Foreground="White" 
+					   HorizontalAlignment="Center" VerticalAlignment="Bottom"  Panel.ZIndex="4" />
+			</Grid>
+
+			<Grid x:Name="SniperTowerCard" MouseMove="CaveManTowerCard_MouseMove" Cursor="Hand" Canvas.Left="960" Canvas.Top="745">
+				<Image Source="/images/towerCardUnderlay.png" Height="90"/>
+
+				<Image Source="/images/towerPngs/Sniper.png" Height="70" Panel.ZIndex="3"/>
+
+				<TextBlock Text="{Binding Price, StringFormat='$\{0\}'}" FontFamily="Comic Sans MS" FontSize="22" FontWeight="ExtraBold" Foreground="White" 
+					   HorizontalAlignment="Center" VerticalAlignment="Bottom"  Panel.ZIndex="4" />
+			</Grid>
+
+			<Button Style="{StaticResource PlainButton}" Canvas.Left="1410" Canvas.Top="700" Click="StartWaveToggleSpeed_Click" Cursor="Hand"
+					Background="Transparent" BorderBrush="Transparent">
+				<Grid>
+					<Image x:Name="StartWaveToggleSpeedButton" Source="/images/greenButtonOverlay.png" Height="150"/>
+					<Image x:Name="StartWaveToggleSpeedButtonContent" Height="100">
+						<Image.Style>
+							<Style TargetType="Image">
+								<Setter Property="Source" Value="/images/Play1.png"/>
+								<Style.Triggers>
+									<DataTrigger Binding="{Binding TimeScale}" Value="1">
+										<Setter Property="Source" Value="/images/Play1.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding TimeScale}" Value="2">
+										<Setter Property="Source" Value="/images/Play2.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding TimeScale}" Value="3">
+										<Setter Property="Source" Value="/images/Play3.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding TimeScale}" Value="4">
+										<Setter Property="Source" Value="/images/Play4.png"/>
+									</DataTrigger>
+								</Style.Triggers>
+							</Style>
+						</Image.Style>
+					</Image>
+				</Grid>
+			</Button>
+
+			<Popup x:Name="SettingsMenu" AllowsTransparency="True" StaysOpen="True" Placement="Center">
+				<Grid Height="300" Width="400">
+					<Image Source="/images/4_3PopupBackground.png" Stretch="Fill"/>
+					<StackPanel>
+						<TextBlock Text="Settings" FontSize="36" FontWeight="Bold" FontFamily="Comic Sans MS"
+								   Foreground="White" HorizontalAlignment="Center" Margin="20"/>
+						<Button Style="{StaticResource PlainButton}" Content="Main Menu" FontFamily="Comic Sans MS" FontSize="24" Padding="10"
+								Click="GoToMainMenu_Click" Foreground="White" Margin="10" Height="75" Width="150" Cursor="Hand">
+							<Button.Background>
+								<ImageBrush ImageSource="/images/BlueRoundedButton.png" Stretch="Fill"/>
+							</Button.Background>
+						</Button>
+						<StackPanel Orientation="Horizontal" Margin="20,5,20,20">
+							<Button Style="{StaticResource PlainButton}" Content="Continue" FontFamily="Comic Sans MS" FontSize="24" Padding="10"
+									Click="ToggleSettingsMenu_Click" Foreground="White" Margin="20" Height="75" Width="150" Cursor="Hand">
+								<Button.Background>
+									<ImageBrush ImageSource="/images/GreenRoundButton.png" Stretch="Fill"/>
+								</Button.Background>
+							</Button>
+							<Button Style="{StaticResource PlainButton}" Content="Restart" FontFamily="Comic Sans MS" FontSize="24" Padding="10"
+									Click="RestartRound_Click" Foreground="White" Margin="20" Height="75" Width="150" Cursor="Hand">
+								<Button.Background>
+									<ImageBrush ImageSource="/images/RedRoundButton.png"/>
+								</Button.Background>
+							</Button>
+						</StackPanel>
+					</StackPanel>
+				</Grid>
+			</Popup>
+
+			<Popup x:Name="GameEndConditionPopUp" AllowsTransparency="True" StaysOpen="True" Placement="Center">
+				<Grid Height="600" Width="1000">
+					<Image x:Name="GameEndConditionPopupBackgroundImg" Stretch="Fill"/>
+					<StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+						<TextBlock x:Name="GameEndConditionText" FontSize="100" Margin="40" 
+									   FontFamily="Comic Sans MS" FontWeight="ExtraBlack" Foreground="White"/>
+						<Button Content="New Game" Style="{StaticResource PlainButton}" FontFamily="Comic Sans MS" FontSize="24" Padding="5" Width="200"
+							Click="RestartRound_Click" Background="Black" Foreground="White" Margin="20"/>
+						<TextBlock x:Name="MoneySpentThisRound" FontSize="24" Foreground="White"/>
+					</StackPanel>
+				</Grid>
+			</Popup>
+
+			<Popup x:Name="TowerModificationMenu" AllowsTransparency="True" StaysOpen="True" PlacementTarget="{Binding ElementName=MainCanvas}"
+					HorizontalOffset="-10" VerticalOffset="860">
+				<Grid Height="500" Width="300" x:Name="TowerModificationMenuData">
+					<Image Source="/images/TowerModificationBackground.png" Stretch="Fill"/>
+				<Canvas>
+						<Button Style="{StaticResource PlainButton}" Click="CloseTowerModificationMenu_Click" 
+								Canvas.Left="250" Canvas.Top="5" Height="25" Width="25" Cursor="Hand" Panel.ZIndex="1">
+							<Button.Background>
+								<ImageBrush ImageSource="/images/Close_X.png"/>
+							</Button.Background>
+						</Button>
+						<Image Source="/images/BlueCharacterBackground.png" Height="175" Canvas.Left="38" Canvas.Top="5" Panel.ZIndex="0"/>
+					
+					<Image x:Name="TowerImage" Height="150" Canvas.Left="78" Canvas.Top="15">
+						<Image.Style>
+							<Style TargetType="Image">
+								<Setter Property="Source" Value="/images/towerPngs/Caveman.png"/>
+								<Style.Triggers>
+										<DataTrigger Binding="{Binding Definition.TypeId}" Value="Caveman">
+										<Setter Property="Source" Value="/images/towerPngs/Caveman.png"/>
+									</DataTrigger>
+										<DataTrigger Binding="{Binding Definition.TypeId}" Value="Archer">
+										<Setter Property="Source" Value="/images/towerPngs/Archer.png"/>
+									</DataTrigger>
+										<DataTrigger Binding="{Binding Definition.TypeId}" Value="Gunman">
+										<Setter Property="Source" Value="/images/towerPngs/Gunman.png"/>
+									</DataTrigger>
+										<DataTrigger Binding="{Binding Definition.TypeId}" Value="Sniper">
+										<Setter Property="Source" Value="/images/towerPngs/Sniper.png"/>
+									</DataTrigger>
+								</Style.Triggers>
+							</Style>
+						</Image.Style>
+					</Image>
+
+					<Image x:Name="TowerDamageIndicatorImage" Height="40" Canvas.Left="85" Canvas.Top="180">
+						<Image.Style>
+							<Style TargetType="Image">
+									<Setter Property="Source" Value="/images/Upgrade0of5.png"/>
+								<Style.Triggers>
+									<DataTrigger Binding="{Binding DamageMultiplier}" Value="1">
+										<Setter Property="Source" Value="/images/Upgrade0of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding DamageMultiplier}" Value="1.5">
+											<Setter Property="Source" Value="/images/Upgrade1of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding DamageMultiplier}" Value="2">
+											<Setter Property="Source" Value="/images/Upgrade2of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding DamageMultiplier}" Value="2.5">
+										<Setter Property="Source" Value="/images/Upgrade3of5.png"/>
+									</DataTrigger>
+								</Style.Triggers>
+							</Style>
+						</Image.Style>
+					</Image>
+					<Button Style="{StaticResource PlainButton}" FontFamily="Comic Sans MS" FontSize="24" Cursor="Hand"
+							Click="UpgradeTowerDamage_Click"  Foreground="White" Canvas.Left="65" Canvas.Top="225" Height="50" Width="180" VerticalContentAlignment="Center">
+						<Button.Background>
+								<ImageBrush ImageSource="/images/GreenRoundButton.png"/>
+						</Button.Background>
+						<TextBlock Text="{Binding Definition.DamageUpgradePrice, StringFormat='Damage $\{0\}'}"/>
+					</Button>
+					
+					<Image x:Name="TowerAttackSpeedIndicatorImage" Height="40" Canvas.Left="85" Canvas.Top="285">
+						<Image.Style>
+							<Style TargetType="Image">
+								<Setter Property="Source" Value="/images/Upgrade0of5.png"/>
+								<Style.Triggers>
+									<DataTrigger Binding="{Binding AttackSpeedMultiplier}" Value="0">
+										<Setter Property="Source" Value="/images/Upgrade0of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding AttackSpeedMultiplier}" Value="0.05">
+										<Setter Property="Source" Value="/images/Upgrade1of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding AttackSpeedMultiplier}" Value="0.1">
+										<Setter Property="Source" Value="/images/Upgrade2of5.png"/>
+									</DataTrigger>
+									<DataTrigger Binding="{Binding AttackSpeedMultiplier}" Value="0.15000000000000002">
+										<Setter Property="Source" Value="/images/Upgrade3of5.png"/>
+									</DataTrigger>
+								</Style.Triggers>
+							</Style>
+						</Image.Style>
+					</Image>
+					<Button Style="{StaticResource PlainButton}" FontFamily="Comic Sans MS" FontSize="24" Cursor="Hand"
+						Click="UpgradeTowerAttackSpeed_Click" Foreground="White" Canvas.Left="65" Canvas.Top="330" Height="50" Width="180" VerticalContentAlignment="Center">
+						<Button.Background>
+								<ImageBrush ImageSource="/images/GreenRoundButton.png"/>
+						</Button.Background>
+						<TextBlock Text="{Binding Definition.AttackSpeedUpgradePrice, StringFormat='Speed $\{0\}'}"/>
+					</Button>
+					
+					<Button Content="Sell" Style="{StaticResource PlainButton}" FontFamily="Comic Sans MS" FontSize="24" Cursor="Hand"
+						Click="SellTower_Click"  Foreground="White" Canvas.Left="55" Canvas.Top="390" Height="50" Width="200" VerticalContentAlignment="Center">
+						<Button.Background>
+							<ImageBrush ImageSource="/images/RedRoundButton.png"/>
+						</Button.Background>
+					</Button>
+					<Image Source="/images/PriceUnderlayBackground.png" Height="80" Canvas.Left="30" Canvas.Top="420"/>
+						<TextBlock x:Name="TowerDeletePrice" Text="{Binding StringFormat='$ \{0\}'}" FontSize="20" Canvas.Left="125" Canvas.Top="445" FontFamily="Comic Sans MS" FontWeight="ExtraBlack" Foreground="White"/>
+				</Canvas>
+				</Grid>
+			</Popup>
+
+			<Popup x:Name="WaitingForPlayerPopup" AllowsTransparency="True" StaysOpen="True" Placement="Center">
+				<Border CornerRadius="20" Padding="20">
+					<Grid Height="150" Width="450">
+						<Image Source="/images/4_3PopupBackground.png" Stretch="Fill"/>
+						<StackPanel>
+							<TextBlock x:Name="WaitingForPlayerPopupText" TextWrapping="Wrap" FontFamily="Comic Sans MS" FontSize="36" 
+									   FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20"/>
+						</StackPanel>
+					</Grid>
+				</Border>
+			</Popup>
+
+			<!-- 
+			<Border Canvas.Left="600" Canvas.Top="325" CornerRadius="20" BorderBrush="Black" BorderThickness="2">
+				<UserControl Height="250" Width="400" >
+							
+				</UserControl>
+			</Border> 
+			-->
+			
+		</Canvas>
+	</Grid>
+</Window>

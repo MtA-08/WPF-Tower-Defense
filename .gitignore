@@ -18,6 +18,11 @@
 
 # Mono auto generated files
 mono_crash.*
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
 
 # Build results
 [Dd]ebug/

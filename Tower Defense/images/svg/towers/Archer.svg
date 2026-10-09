@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="ArcherTower-title ArcherTower-desc">
+<title id="ArcherTower-title">Archer tower</title><desc id="ArcherTower-desc">A green-hooded ranger drawing an arrow, with a recurved wooden bow, feathered quiver, leather bracer, cloak and boots. Three-quarter view, aiming right. Original vector artwork.</desc><defs><linearGradient id="ArcherTower-skin" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#ffe1a5"/><stop offset="0.500" stop-color="#ecae72"/><stop offset="1.000" stop-color="#c77547"/></linearGradient><linearGradient id="ArcherTower-hair" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#785033"/><stop offset="0.500" stop-color="#4c3025"/><stop offset="1.000" stop-color="#2b2325"/></linearGradient><linearGradient id="ArcherTower-leather" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#bc7c40"/><stop offset="0.500" stop-color="#875029"/><stop offset="1.000" stop-color="#593221"/></linearGradient><linearGradient id="ArcherTower-wood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#dca45c"/><stop offset="0.500" stop-color="#a86b36"/><stop offset="1.000" stop-color="#6d3c23"/></linearGradient><linearGradient id="ArcherTower-steel" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#e4f3f2"/><stop offset="0.500" stop-color="#89adb9"/><stop offset="1.000" stop-color="#4f6a82"/></linearGradient><linearGradient id="ArcherTower-gold" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fff1a0"/><stop offset="0.500" stop-color="#ebc04f"/><stop offset="1.000" stop-color="#b57929"/></linearGradient><linearGradient id="ArcherTower-ivory" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#fffae1"/><stop offset="0.500" stop-color="#ecdfb7"/><stop offset="1.000" stop-color="#c6aa7b"/></linearGradient><linearGradient id="ArcherTower-greenCloth" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0.000" stop-color="#89bb72"/><stop offset="0.500" stop-color="#497b4c"/><stop offset="1.000" stop-color="#315540"/></linearGradient></defs>
+<g fill="none" stroke="#202a38" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round">
+<g id="ArcherTower-cloak">
+<path d="M95 87 Q73 106 69 149 L58 193 Q74 202 97 192 L106 207 L130 192 L151 198 L161 179 L149 112Z" fill="url(#ArcherTower-greenCloth)"/>
+<path d="M90 126 L76 184 M141 131 L146 182" stroke="#30573d" stroke-width="4"/>
+</g>
+<g id="ArcherTower-quiver">
+<path d="M62 105 L84 110 L77 155 Q66 167 54 151Z" fill="url(#ArcherTower-leather)"/>
+<path d="M62 108 L81 113" stroke="#e4be7f" stroke-width="4"/>
+<path d="M66 108 L65 62 M73 109 L78 57 M80 109 L89 71" stroke="#704c2e" stroke-width="3.5"/>
+<path d="M65 81 L58 72 L58 57 L64 63 L70 56 L71 73Z M78 79 L72 68 L75 51 L79 58 L84 53 L84 72Z M86 91 L81 80 L85 66 L90 73 L95 69 L93 84Z" fill="url(#ArcherTower-ivory)" stroke-width="2.5"/>
+<path d="M64 65 L64 77 M79 59 L78 74 M89 74 L87 86" stroke="#b39060" stroke-width="2"/>
+</g>
+<g id="ArcherTower-boots">
+<path d="M92 175 L113 179 L111 207 L102 211 L90 209Z" fill="#a58a5a"/>
+<path d="M128 178 L147 176 L150 204 L139 213 L127 207Z" fill="#a58a5a"/>
+<path d="M89 196 L111 198 L114 222 L79 222 L80 213 L90 209Z" fill="url(#ArcherTower-leather)"/>
+<path d="M128 198 L149 195 L150 208 Q166 211 163 220 L127 222Z" fill="url(#ArcherTower-leather)"/>
+<path d="M89 201 L108 203 M131 203 L147 201" stroke="#dfb17b" stroke-width="3"/>
+<path d="M80 218 L111 218 M130 218 L161 217" stroke="#513526" stroke-width="3"/>
+</g>
+<g id="ArcherTower-tunic">
+<path d="M97 109 L131 108 Q143 123 145 151 L151 185 L128 195 L119 180 L104 192 L85 184 L88 145Z" fill="url(#ArcherTower-greenCloth)"/>
+<path d="M120 125 L125 171" stroke="#9dc47c" stroke-width="3"/>
+<path d="M104 111 L147 161" stroke="#523c29" stroke-width="12"/>
+<path d="M104 111 L147 161" stroke="#b18149" stroke-width="7"/>
+<path d="M90 158 Q117 169 143 154 L147 168 Q118 182 86 171Z" fill="url(#ArcherTower-leather)" stroke-width="3"/>
+<path d="M114 163 L128 163 L130 176 L115 177Z" fill="url(#ArcherTower-gold)" stroke-width="2.5"/>
+<path d="M119 168 L125 168 L125 172 L120 172Z" fill="#644b2b" stroke="none"/>
+<path d="M95 175 L93 181 M100 177 L99 184 M136 177 L139 183" stroke="#bcd499" stroke-width="2"/>
+</g>
+<g id="ArcherTower-hood-and-head">
+<path d="M88 99 Q73 73 91 44 Q103 29 118 27 L139 37 Q159 51 160 85 L153 112 L132 123 L107 113 L91 120Z" fill="url(#ArcherTower-greenCloth)"/>
+<path d="M91 75 Q105 49 129 51 Q155 57 155 85 L153 102 Q142 120 119 111 L101 104Z" fill="#29493c" stroke-width="3"/>
+<path d="M103 71 Q123 56 141 68 L151 80 L150 94 L157 101 L148 108 Q137 122 120 113 L106 101Z" fill="url(#ArcherTower-skin)"/>
+<path d="M105 91 Q95 80 92 89 Q89 99 106 104" fill="url(#ArcherTower-skin)" stroke-width="3"/>
+<path d="M101 87 L105 95" stroke="#b88151" stroke-width="2.5"/>
+<path d="M105 80 L111 78 L118 61 Q136 65 146 74 L146 64 Q117 44 101 71Z" fill="url(#ArcherTower-hair)" stroke-width="3"/>
+<path d="M119 87 L130 83 M142 82 L150 85" stroke="#5a3a28" stroke-width="3.5"/>
+<ellipse cx="126" cy="91" rx="3.3" ry="4.5" fill="#263340" stroke="none"/>
+<ellipse cx="146" cy="91" rx="3" ry="4" fill="#263340" stroke="none"/>
+<path d="M138 91 L141 100 L135 101 M128 109 Q136 112 143 108" stroke="#ae714c" stroke-width="2.5"/>
+<path d="M87 73 Q89 48 115 39" stroke="#afd191" stroke-width="4"/>
+<path d="M87 103 L102 108 L113 122 L96 132 L83 115Z" fill="url(#ArcherTower-greenCloth)" stroke-width="3.5"/>
+<circle cx="111" cy="124" r="6" fill="url(#ArcherTower-gold)" stroke-width="3"/>
+</g>
+<g id="ArcherTower-bow">
+<path d="M192 35 C214 44 232 77 229 105 C231 134 216 159 194 169 L191 160 C213 147 217 127 217 105 C219 80 210 57 191 45Z" fill="url(#ArcherTower-wood)"/>
+<path d="M198 46 Q224 73 222 96 M222 119 Q220 144 200 158" stroke="#f2c97d" stroke-width="3"/>
+<path d="M194 40 L157 105 L194 165" stroke="#d9ceb0" stroke-width="2.5"/>
+<path d="M194 40 L157 105 L194 165" stroke="#6f634e" stroke-width="1"/>
+<path d="M218 97 L229 97 L229 116 L217 117Z" fill="url(#ArcherTower-leather)" stroke-width="2.5"/>
+<path d="M219 102 L227 102 M219 108 L227 108" stroke="#deb77b" stroke-width="2"/>
+</g>
+<g id="ArcherTower-aiming-arms">
+<path d="M138 123 Q147 121 151 130 L169 136 L211 108 Q220 105 224 112 Q225 120 216 124 L177 153 Q168 160 158 154 L142 147" fill="url(#ArcherTower-skin)"/>
+<path d="M165 136 L177 147 L187 139 L176 128Z" fill="url(#ArcherTower-leather)" stroke-width="3"/>
+<path d="M171 134 L181 142 M177 130 L187 137" stroke="#d9ac73" stroke-width="2.5"/>
+<path d="M213 113 L217 120" stroke="#ab724a" stroke-width="2.5"/>
+<path d="M95 131 Q103 126 110 136 L122 144 L149 107 L157 101 L164 105 L164 113 L155 117 L134 155 Q127 168 116 162 L96 150" fill="url(#ArcherTower-skin)"/>
+<path d="M94 128 Q104 123 111 133 L114 141 L101 153 L91 145Z" fill="url(#ArcherTower-greenCloth)" stroke-width="3.5"/>
+<path d="M151 111 L157 115" stroke="#bd8757" stroke-width="2.5"/>
+</g>
+<g id="ArcherTower-nocked-arrow">
+<path d="M147 105 L232 105" stroke="#382d27" stroke-width="5"/>
+<path d="M150 104 L231 104" stroke="#d0a765" stroke-width="2.5"/>
+<path d="M226 98 L241 105 L226 112 L228 105Z" fill="url(#ArcherTower-steel)" stroke-width="2.5"/>
+<path d="M158 105 L148 98 L140 98 L148 104 L140 111 L148 111Z" fill="url(#ArcherTower-ivory)" stroke-width="2"/>
+</g></g></svg>
